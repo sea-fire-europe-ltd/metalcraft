@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include metalcraft *.css
+recursive-include metalcraft *.csv
+recursive-include metalcraft *.html
+recursive-include metalcraft *.ico
+recursive-include metalcraft *.js
+recursive-include metalcraft *.json
+recursive-include metalcraft *.md
+recursive-include metalcraft *.png
+recursive-include metalcraft *.py
+recursive-include metalcraft *.svg
+recursive-include metalcraft *.txt
+recursive-exclude metalcraft *.pyc
