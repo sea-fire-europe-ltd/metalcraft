@@ -6,8 +6,8 @@ def get_data():
 	return [
 		{
 			"module_name": "Metalcraft",
-			"color": "grey",
-			"icon": "octicon octicon-file-directory",
+			"color": "red",
+			"icon": "icon-fire-extinguisher",
 			"type": "module",
 			"label": _("Metalcraft")
 		}
