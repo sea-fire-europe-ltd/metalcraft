@@ -48,6 +48,11 @@ app_license = "MIT"
 # before_install = "metalcraft.install.before_install"
 # after_install = "metalcraft.install.after_install"
 
+
+# Fixtures
+# --------
+fixtures = ["Custom Field", "Custom Script"]
+
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
