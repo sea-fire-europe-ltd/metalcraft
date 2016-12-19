@@ -1,21 +1,11 @@
-from __future__ import unicode_literals
-
-import frappe
-import os, base64
-from frappe import _, throw
-from frappe.utils import flt
-from frappe.utils.file_manager import save_url, save_file, get_file_name
-from frappe.utils import get_site_path, get_files_path, random_string, encode
-import json
-
 @frappe.whitelist()
 def attach_all_docs(document, method=None):
     """This function attaches drawings to the purchase order based on the items
-     being ordered"""
-    document = json.loads(document)
+    being ordered"""
+document = json.loads(document)
 
-    current_attachments = []
-    for file_url in frappe.db.sql("""select file_url from `tabFile` where
+current_attachments = []
+for file_url in frappe.db.sql("""select file_url from `tabFile` where
                                   attached_to_doctype = %(doctype)s and
                                    attached_to_name = %(docname)s""", {
                                        'doctype': document["doctype"],
@@ -46,9 +36,10 @@ def attach_all_docs(document, method=None):
                     count = count + 1
                     save_url(attach, document["doctype"], document[
                              "name"], "Home/Attachments")
-    frappe.msgprint("Attached {0} files".format(count))
+frappe.msgprint("Attached {0} files".format(count))
 
-    @frappe.whitelist()
+
+@frappe.whitelist()
 def attach2(document):
     """This function attaches drawings
      to the purchase order based on
