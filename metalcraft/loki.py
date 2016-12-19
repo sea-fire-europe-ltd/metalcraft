@@ -1,3 +1,6 @@
+from frappe.utils import get_site_path, get_files_path, random_string, encode
+  import json
+  		  
 @frappe.whitelist()
 def attach_all_docs(document, method=None):
     """This function attaches drawings to the purchase order based on the items
