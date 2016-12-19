@@ -1,3 +1,14 @@
+from __future__ import unicode_literals
+
+import frappe
+import os, base64
+from frappe import _, throw
+from frappe.utils import flt
+from frappe.utils.file_manager import save_url, save_file, get_file_name
+from frappe.utils import get_site_path, get_files_path, random_string, encode
+import json
+
+
 @frappe.whitelist()
 def attach_all_docs(document, method=None):
     """This function attaches drawings to the purchase order based on the items being ordered"""
