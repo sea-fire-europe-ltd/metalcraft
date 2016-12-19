@@ -1,5 +1,6 @@
 from frappe.utils import get_site_path, get_files_path, random_string, encode
 import json
+import frappe
 
 
 @frappe.whitelist()
