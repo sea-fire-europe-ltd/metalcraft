@@ -5,10 +5,9 @@ import frappe
 
 @frappe.whitelist()
 def attach_all_docs(document, method=None):
-    frappe.msgprint(str(document))
     """This function attaches drawings to the purchase order based on the items
     being ordered"""
-#document = json.loads(document)
+# document = json.loads(document)
 
 current_attachments = []
 for file_url in frappe.db.sql("""select file_url from `tabFile` where
@@ -44,9 +43,9 @@ for file_url in frappe.db.sql("""select file_url from `tabFile` where
                              "name"], "Home/Attachments")
 frappe.msgprint("Attached {0} files".format(count))
 
+"""Add comment"""
 
-#----------------- Add comment
-@frappe.whitelist()
-def comment_on_source(name,current_document):
-d = frappe.get_doc('Material Request', name)
-d.add_comment('TEST')
+
+def comment_on_source(name, current_document):
+    d = frappe.get_doc('Material Request', name)
+    d.add_comment('TEST')
