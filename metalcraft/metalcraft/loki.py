@@ -5,6 +5,7 @@ import frappe
 
 @frappe.whitelist()
 def attach_all_docs(document, method=None):
+    frappe.msgprint(str(document))
     """This function attaches drawings to the purchase order based on the items
     being ordered"""
 document = json.loads(document)
