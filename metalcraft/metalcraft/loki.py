@@ -39,14 +39,12 @@ def attach_all_docs(document):
 		# Get the path for the attachments
 		if item.drawing_attachment:
 			attachments.append(item.drawing_attachment)
-		if item.stp_attachment:
+		if item.data_sheet_attachment:
 			attachments.append(item.stp_attachment)
-		if item.dxf_attachment:
+		if item.bom_attachment:
 			attachments.append(item.dxf_attachment)
-		if item.x_t_attachment:
+		if item.other_attachment:
 			attachments.append(item.x_t_attachment)
-		if item.electrical_attachment:
-			attachments.append(item.electrical_attachment)
 			
 		for attach in attachments:
 			# Check to see if this file is attached to the one we are looking for
