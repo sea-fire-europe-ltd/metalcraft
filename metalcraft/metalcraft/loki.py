@@ -12,7 +12,6 @@ from frappe.model.mapper import get_mapped_doc
 from erpnext.stock.stock_balance import update_bin_qty, get_indented_qty
 from erpnext.controllers.buying_controller import BuyingController
 from erpnext.manufacturing.doctype.production_order.production_order import get_item_details
-from erpnext.buying.utils import check_for_closed_status, validate_for_items
 
 from six import string_types
 
