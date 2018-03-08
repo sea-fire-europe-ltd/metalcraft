@@ -46,8 +46,7 @@ def make_stock_entry_receipt(source_name, target_doc=None):
 				"parent": "material_request",
 				"uom": "stock_uom",
 			},
-			"postprocess": update_item,
-			"condition": lambda doc: doc.ordered_qty < doc.stock_qty
+			"postprocess": update_item
 		}
 	}, target_doc, set_missing_values)
 
