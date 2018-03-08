@@ -16,7 +16,7 @@ def make_stock_entry_receipt(source_name, target_doc=None):
 		target.qty = qty
 		target.transfer_qty = qty * obj.conversion_factor
 		target.conversion_factor = obj.conversion_factor
-			target.t_warehouse = obj.warehouse
+		target.t_warehouse = obj.warehouse
 
 	def set_missing_values(source, target):
 		target.purpose = source.material_request_type
