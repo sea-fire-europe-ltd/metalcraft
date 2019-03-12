@@ -11,8 +11,6 @@ _version_re = re.compile(r'__version__\s+=\s+(.*)')
 with open('metalcraft/__init__.py', 'rb') as f:
     version = str(ast.literal_eval(_version_re.search(f.read().decode('utf-8')).group(1)))
 
-requirements = parse_requirements("requirements.txt", session="")
-
 setup(
 	name='metalcraft',
 	version=version,
