@@ -72,6 +72,17 @@ fixtures = ["Custom Field", "Custom Script"]
 # 	"Event": "frappe.desk.doctype.event.event.has_permission",
 # }
 
+# Jinja Filters
+# ---------------
+# Methods accessible print template
+jenv = {
+    "methods": [
+    'get_qrcode:metalcraft.jinja_filters.get_qrcode'
+    ]
+}
+
+
+
 # Document Events
 # ---------------
 # Hook on document methods and events
@@ -116,4 +127,3 @@ fixtures = ["Custom Field", "Custom Script"]
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "metalcraft.event.get_events"
 # }
-
