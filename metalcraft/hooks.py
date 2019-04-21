@@ -74,31 +74,28 @@ fixtures = ["Custom Field", "Custom Script"]
 
 # Jinja Filters
 # ---------------
-# Methods accessible print template
+# Methods accessible to print template
 jenv = {
     "methods": [
     'get_qrcode:metalcraft.jinja_filters.get_qrcode'
     ]
 }
 
-
-
 # Document Events
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-#	}
-# }
+doc_events = {
+	"Delivery Note": {
+		"validate": "metalcraft.validations.check_serials_in_draft",
+		# "validate": "metalcraft.validations.check_batch_qty",
+	}
+}
 
 # Scheduled Tasks
 # ---------------
 
-# scheduler_events = {
+scheduler_events = {
 # 	"all": [
 # 		"metalcraft.tasks.all"
 # 	],
@@ -113,8 +110,15 @@ jenv = {
 # 	]
 # 	"monthly": [
 # 		"metalcraft.tasks.monthly"
+# 	],
+    "cron": {
+        "0,5,11,17,23,29,35,41,47,53 * * * *": [
+          "erpnext.stock.reorder_item.reorder_item"
+        ]
+    }
+#
 # 	]
-# }
+}
 
 # Testing
 # -------
