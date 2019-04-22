@@ -4,10 +4,10 @@ from . import __version__ as app_version
 
 app_name = "metalcraft"
 app_title = "Metalcraft"
-app_publisher = "Metalcraft"
-app_description = "app for customizations"
-app_icon = "octicon octicon-file-directory"
-app_color = "grey"
+app_publisher = "Metalcraft, Inc."
+app_description = "Metalcraft, Inc. internal app for customizations."
+app_icon = "fa fa-fire-extinguisher"
+app_color = "red"
 app_email = "cpurbaugh@sea-fire.com"
 app_license = "MIT"
 
