@@ -1,0 +1,31 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Internal Code Table",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2017-05-09 09:44:30.099374",
+   "default_value": null,
+   "doc_type": "Internal Code Table",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "code",
+   "idx": 0,
+   "modified": "2017-05-09 09:44:30.099374",
+   "modified_by": "KMoseng@sea-fire.com",
+   "name": "Internal Code Table-code-width",
+   "owner": "KMoseng@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "width",
+   "property_type": null,
+   "value": "101.200012207031"
+  }
+ ],
+ "sync_on_migrate": 1
+}
