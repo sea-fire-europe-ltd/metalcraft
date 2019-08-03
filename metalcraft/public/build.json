@@ -1,5 +1,5 @@
 {
   "js/metalcraft.min.js": [
-    "/public/js/fullsize.js"
+    "public/js/fullsize.js"
   ]
 }
