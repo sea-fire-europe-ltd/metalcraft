@@ -5,19 +5,29 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 14:31:52.973240",
    "default": "__user",
+=======
+   "creation": "2019-05-01 11:05:35.800910",
+   "default": null,
+>>>>>>> feat: updated customizations
    "depends_on": null,
    "description": null,
    "docstatus": 0,
    "dt": "Material Request Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "requested_by",
    "fieldtype": "Data",
    "hidden": 0,
@@ -35,6 +45,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "custom_description",
+   "fieldtype": "Long Text",
+   "hidden": 0,
+   "idx": 8,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 1,
+   "in_standard_filter": 0,
+   "insert_after": "description",
+   "label": "Custom Description",
+   "modified": "2019-05-01 11:05:35.800910",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-custom_description",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -43,7 +73,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 1,
+=======
+   "read_only": 0,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -75,6 +109,10 @@
    "idx": 2,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+<<<<<<< HEAD
+=======
+   "in_filter": 0,
+>>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -112,7 +150,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-10-30 08:48:07.589105",
+=======
+   "creation": "2017-07-07 14:30:21.955034",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -120,6 +162,7 @@
    "dt": "Material Request Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "primary_location",
    "fieldtype": "Data",
    "hidden": 0,
@@ -134,6 +177,23 @@
    "modified": "2017-10-30 08:48:07.589105",
    "modified_by": "Administrator",
    "name": "Material Request Item-primary_location",
+=======
+   "fieldname": "target",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 21,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "amount",
+   "label": "Target",
+   "modified": "2017-07-07 14:30:21.955034",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-target",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -158,19 +218,31 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-10-30 08:45:50.150613",
    "default": null,
    "depends_on": null,
    "description": null,
+=======
+   "creation": "2017-03-29 14:42:58.580649",
+   "default": null,
+   "depends_on": null,
+   "description": "Manufacturer Part Number",
+>>>>>>> feat: updated customizations
    "docstatus": 0,
    "dt": "Material Request Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "alternate_locations",
    "fieldtype": "Data",
    "hidden": 0,
@@ -188,6 +260,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "mpn",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 3,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "current_revision_level",
+   "label": "MPN",
+   "modified": "2017-03-29 14:42:58.580649",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Material Request Item-mpn",
+   "no_copy": 0,
+   "options": null,
+   "owner": "sellisjr@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -196,13 +288,18 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
    "translatable": 0,
    "unique": 0,
    "width": null
+<<<<<<< HEAD
   },
   {
    "_assign": null,
@@ -663,11 +760,19 @@
    "unique": 0,
    "width": null
   },
+=======
+  }
+ ],
+ "custom_perms": [],
+ "doctype": "Material Request Item",
+ "property_setters": [
+>>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
@@ -697,10 +802,23 @@
    "name": "Material Request Item-required_date",
    "no_copy": 0,
    "options": null,
+=======
+   "creation": "2019-07-17 09:23:38.644824",
+   "default_value": null,
+   "doc_type": "Material Request Item",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "warehouse",
+   "idx": 0,
+   "modified": "2019-07-17 09:23:38.644824",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-warehouse-default",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "permlevel": 0,
    "precision": "",
    "print_hide": 0,
@@ -713,12 +831,18 @@
    "translatable": 0,
    "unique": 0,
    "width": null
+=======
+   "property": "default",
+   "property_type": "Text",
+   "value": "Stock Room - MC"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
@@ -748,10 +872,23 @@
    "name": "Material Request Item-qty_per_case",
    "no_copy": 0,
    "options": null,
+=======
+   "creation": "2019-07-17 09:23:38.620761",
+   "default_value": null,
+   "doc_type": "Material Request Item",
+   "docstatus": 0,
+   "doctype_or_field": "DocType",
+   "field_name": null,
+   "idx": 0,
+   "modified": "2019-07-17 09:23:38.620761",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-read_only_onload",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "permlevel": 0,
    "precision": "",
    "print_hide": 0,
@@ -769,6 +906,58 @@
  "custom_perms": [],
  "doctype": "Material Request Item",
  "property_setters": [
+=======
+   "property": "read_only_onload",
+   "property_type": "Check",
+   "value": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2019-05-01 11:05:48.129443",
+   "default_value": null,
+   "doc_type": "Material Request Item",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "description",
+   "idx": 0,
+   "modified": "2019-05-01 11:05:48.129443",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-description-read_only",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "read_only",
+   "property_type": "Check",
+   "value": "1"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2019-04-22 09:08:41.417869",
+   "default_value": null,
+   "doc_type": "Material Request Item",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "rate",
+   "idx": 0,
+   "modified": "2019-04-22 09:08:41.417869",
+   "modified_by": "Administrator",
+   "name": "Material Request Item-rate-precision",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "precision",
+   "property_type": "Select",
+   "value": "5"
+  },
+>>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
@@ -792,6 +981,7 @@
    "property_type": "Check",
    "value": "1"
   },
+<<<<<<< HEAD
   {
    "_assign": null,
    "_comments": null,
@@ -815,6 +1005,8 @@
    "property_type": "Check",
    "value": null
   },
+=======
+>>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
@@ -935,6 +1127,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2017-03-28 11:54:15.986366",
    "default_value": null,
    "doc_type": "Material Request Item",
@@ -958,6 +1151,8 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+=======
+>>>>>>> feat: updated customizations
    "creation": "2017-03-28 11:54:15.977484",
    "default_value": null,
    "doc_type": "Material Request Item",
@@ -1022,6 +1217,7 @@
    "property_type": "Check",
    "value": "0"
   },
+<<<<<<< HEAD
   {
    "_assign": null,
    "_comments": null,
@@ -1045,6 +1241,8 @@
    "property_type": "Text",
    "value": "Stock Room - MC"
   },
+=======
+>>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
