@@ -10,9 +10,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-06-27 14:32:18.180631",
-=======
    "creation": "2019-07-25 15:33:51.163083",
    "default": null,
    "depends_on": null,
@@ -274,7 +271,6 @@
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2019-06-27 09:22:26.663668",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -285,19 +281,6 @@
    "fieldname": "height",
    "fieldtype": "Float",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 49,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "width",
-   "label": "Height",
-   "modified": "2019-06-27 14:32:18.180631",
-   "modified_by": "Administrator",
-   "name": "Item-height",
-=======
    "idx": 50,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
@@ -2858,7 +2841,6 @@
    "modified": "2017-04-21 10:33:25.170149",
    "modified_by": "Administrator",
    "name": "Item-usage",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2866,11 +2848,7 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
-<<<<<<< HEAD
-   "precision": "2",
-=======
    "precision": "",
->>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -2892,11 +2870,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-06-27 14:32:17.225766",
-=======
    "creation": "2017-04-21 10:33:21.506208",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2904,22 +2878,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "width",
-   "fieldtype": "Float",
-   "hidden": 0,
-   "idx": 48,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "length",
-   "label": "Width",
-   "modified": "2019-06-27 14:32:17.225766",
-   "modified_by": "Administrator",
-   "name": "Item-width",
-=======
    "fieldname": "used_on",
    "fieldtype": "Data",
    "hidden": 0,
@@ -2935,7 +2893,6 @@
    "modified": "2017-04-21 10:33:21.506208",
    "modified_by": "Administrator",
    "name": "Item-used_on",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2943,11 +2900,7 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
-<<<<<<< HEAD
-   "precision": "2",
-=======
    "precision": "",
->>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -2969,11 +2922,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-06-27 14:32:15.903987",
-=======
    "creation": "2017-04-21 09:43:25.497982",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2981,22 +2930,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "length",
-   "fieldtype": "Float",
-   "hidden": 0,
-   "idx": 45,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "weight_uom",
-   "label": "Length",
-   "modified": "2019-06-27 14:32:15.903987",
-   "modified_by": "Administrator",
-   "name": "Item-length",
-=======
    "fieldname": "rina",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3012,7 +2945,6 @@
    "modified": "2017-04-21 09:43:25.497982",
    "modified_by": "Administrator",
    "name": "Item-rina",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3020,11 +2952,7 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
-<<<<<<< HEAD
-   "precision": "2",
-=======
    "precision": "",
->>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -3046,11 +2974,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-22 12:44:34.178538",
-=======
    "creation": "2017-04-21 09:43:22.207050",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3058,25 +2982,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "empty_cylinder_assembly",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 159,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "engineering_details",
-   "label": "Empty Cylinder Assembly",
-   "modified": "2019-05-22 12:44:34.178538",
-   "modified_by": "psidelinger@sea-fire.com",
-   "name": "Item-empty_cylinder_assembly",
-   "no_copy": 0,
-   "options": null,
-   "owner": "psidelinger@sea-fire.com",
-=======
    "fieldname": "lloyds",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3095,7 +3000,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -3108,11 +3012,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-<<<<<<< HEAD
-   "translatable": 1,
-=======
    "translatable": 0,
->>>>>>> feat: updated customizations
    "unique": 0,
    "width": null
   },
@@ -3126,11 +3026,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-07 13:52:52.721386",
-=======
    "creation": "2017-04-21 09:43:18.946473",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3138,22 +3034,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "fca",
-   "fieldtype": "Check",
-   "hidden": 1,
-   "idx": 4,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "item_code",
-   "label": "FCA",
-   "modified": "2019-05-07 13:52:52.721386",
-   "modified_by": "Administrator",
-   "name": "Item-fca",
-=======
    "fieldname": "abs",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3169,7 +3049,6 @@
    "modified": "2017-04-21 09:43:18.946473",
    "modified_by": "Administrator",
    "name": "Item-abs",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3199,11 +3078,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-11-12 13:55:27.005340",
-=======
    "creation": "2017-04-21 09:43:15.635315",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3211,22 +3086,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "last_cycle_count",
-   "fieldtype": "Date",
-   "hidden": 0,
-   "idx": 40,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "default_material_request_type",
-   "label": "Last Cycle Count",
-   "modified": "2018-11-12 13:55:27.005340",
-   "modified_by": "Administrator",
-   "name": "Item-last_cycle_count",
-=======
    "fieldname": "intertek_etl",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3242,7 +3101,6 @@
    "modified": "2017-04-21 09:43:15.635315",
    "modified_by": "Administrator",
    "name": "Item-intertek_etl",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3272,36 +3130,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-10-10 11:43:12.279759",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:43:12.549076",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "series_number",
-   "fieldtype": "Int",
-   "hidden": 0,
-   "idx": 6,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "series",
-   "label": "Series Number",
-   "modified": "2018-10-10 11:43:12.279759",
-   "modified_by": "Administrator",
-   "name": "Item-series_number",
-=======
    "fieldname": "us_government",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3317,7 +3153,6 @@
    "modified": "2017-04-21 09:43:12.549076",
    "modified_by": "Administrator",
    "name": "Item-us_government",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3347,36 +3182,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-10-10 11:42:50.105604",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:43:09.319932",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "series",
-   "fieldtype": "Int",
-   "hidden": 0,
-   "idx": 5,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "fca",
-   "label": "Series",
-   "modified": "2018-10-10 11:42:50.105604",
-   "modified_by": "Administrator",
-   "name": "Item-series",
-=======
    "fieldname": "uscg",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3392,7 +3205,6 @@
    "modified": "2017-04-21 09:43:09.319932",
    "modified_by": "Administrator",
    "name": "Item-uscg",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3422,9 +3234,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-10-04 07:49:04.325876",
-=======
    "creation": "2017-04-21 09:43:06.041272",
    "default": null,
    "depends_on": null,
@@ -3582,7 +3391,6 @@
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-21 09:42:59.410998",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3590,24 +3398,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "safety_data_sheet",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 31,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "section_break_11",
-   "label": "Safety Data Sheet",
-   "modified": "2018-10-04 07:49:04.325876",
-   "modified_by": "Administrator",
-   "name": "Item-safety_data_sheet",
-   "no_copy": 0,
-   "options": "Safety Data Sheet",
-=======
    "fieldname": "metalcraft_seafire_approvals",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -3625,7 +3415,6 @@
    "name": "Item-metalcraft_seafire_approvals",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3653,36 +3442,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-08-17 13:17:05.231643",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:42:56.206537",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "in_process_ecn_number",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 9,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "ecn_number",
-   "label": "In Process ECN Number",
-   "modified": "2018-08-17 13:17:05.231643",
-   "modified_by": "Administrator",
-   "name": "Item-in_process_ecn_number",
-=======
    "fieldname": "en_10204_material_ce",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3698,7 +3465,6 @@
    "modified": "2017-04-21 09:42:56.206537",
    "modified_by": "Administrator",
    "name": "Item-en_10204_material_ce",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3728,11 +3494,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-06-21 13:08:49.810221",
-=======
    "creation": "2017-04-21 09:42:53.151227",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3740,24 +3502,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "doc_content",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 155,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "qa_codes",
-   "label": "DoC Content",
-   "modified": "2018-06-21 13:08:49.810221",
-   "modified_by": "Administrator",
-   "name": "Item-doc_content",
-   "no_copy": 0,
-   "options": "DoC Content",
-=======
    "fieldname": "med_type_approval_dry_chem",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3775,7 +3519,6 @@
    "name": "Item-med_type_approval_dry_chem",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3803,36 +3546,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-06-19 11:41:56.593870",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2017-04-21 09:42:49.638348",
    "default": null,
    "depends_on": "",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "doc_title",
-   "fieldtype": "Data",
-   "hidden": 1,
-   "idx": 156,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "doc_content",
-   "label": "DOC Title",
-   "modified": "2018-06-19 11:41:56.593870",
-   "modified_by": "Administrator",
-   "name": "Item-doc_title",
-=======
    "fieldname": "electrics_abs",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3848,7 +3569,6 @@
    "modified": "2017-04-21 09:42:49.638348",
    "modified_by": "Administrator",
    "name": "Item-electrics_abs",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3878,11 +3598,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-05-23 13:50:16.332589",
-=======
    "creation": "2017-04-21 09:42:45.258674",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3890,22 +3606,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "doc_text",
-   "fieldtype": "Long Text",
-   "hidden": 1,
-   "idx": 157,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "doc_title",
-   "label": "DoC Text",
-   "modified": "2018-05-23 13:50:16.332589",
-   "modified_by": "Administrator",
-   "name": "Item-doc_text",
-=======
    "fieldname": "electrics_lr",
    "fieldtype": "Check",
    "hidden": 0,
@@ -3921,7 +3621,6 @@
    "modified": "2017-04-21 09:42:45.258674",
    "modified_by": "Administrator",
    "name": "Item-electrics_lr",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -3951,44 +3650,20 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-03-26 09:41:06.376030",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2017-04-21 09:42:41.993828",
    "default": null,
    "depends_on": "",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "drawing",
-   "fieldtype": "Attach",
-=======
    "fieldname": "electrics_bv",
    "fieldtype": "Check",
->>>>>>> feat: updated customizations
    "hidden": 0,
    "idx": 151,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "synced_with_hub",
-   "label": "Drawing",
-   "modified": "2018-03-26 09:41:06.376030",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Item-drawing",
-   "no_copy": 0,
-   "options": null,
-   "owner": "cpurbaugh@sea-fire.com",
-=======
    "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
@@ -4001,16 +3676,11 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
-<<<<<<< HEAD
-   "precision": null,
-=======
    "precision": "",
->>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -4032,39 +3702,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-01-09 15:27:01.345987",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:42:38.762491",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "ecn_number",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 8,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "current_revision_level",
-   "label": "Closed ECN Number",
-   "modified": "2018-01-09 15:27:01.345987",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Item-ecn_number",
-   "no_copy": 0,
-   "options": null,
-   "owner": "cpurbaugh@sea-fire.com",
-=======
    "fieldname": "electrics_dnv",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4083,7 +3728,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -4110,43 +3754,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-10-20 09:15:19.022984",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:42:35.886632",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "current_revision_level",
-   "fieldtype": "Select",
-   "hidden": 0,
-   "idx": 7,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "series_number",
-   "label": "Current Revision Level",
-   "modified": "2017-10-20 09:15:19.022984",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Item-current_revision_level",
-   "no_copy": 0,
-   "options": "\nNEW\n-\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nVN\nNA\nOB\n1\n2\n3\n4\n5",
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 1,
-=======
    "fieldname": "med_type_approval_various",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4169,7 +3784,6 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
@@ -4192,11 +3806,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-25 15:26:10.484526",
-=======
    "creation": "2017-04-21 09:42:32.789378",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4204,22 +3814,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "item_description",
-   "fieldtype": "Text Editor",
-   "hidden": 1,
-   "idx": 12,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "item_name",
-   "label": "item description",
-   "modified": "2017-04-25 15:26:10.484526",
-   "modified_by": "Administrator",
-   "name": "Item-item_description",
-=======
    "fieldname": "fm_product_listing_various",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4235,7 +3829,6 @@
    "modified": "2017-04-21 09:42:32.789378",
    "modified_by": "Administrator",
    "name": "Item-fm_product_listing_various",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4262,17 +3855,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 1,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-25 12:18:58.266407",
-=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-21 09:42:29.695201",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4280,22 +3866,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "internal_comments_section",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 88,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "supplier_items",
-   "label": "Internal Comments Section",
-   "modified": "2017-04-25 12:18:58.266407",
-   "modified_by": "Administrator",
-   "name": "Item-internal_comments_section",
-=======
    "fieldname": "ul_product_listing_various",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4311,7 +3881,6 @@
    "modified": "2017-04-21 09:42:29.695201",
    "modified_by": "Administrator",
    "name": "Item-ul_product_listing_various",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4338,17 +3907,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 1,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-25 12:18:57.168731",
-=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-21 09:42:26.747127",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4356,22 +3918,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "purchasing_comments_section",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 80,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "last_purchase_rate",
-   "label": "Purchasing Comments Section",
-   "modified": "2017-04-25 12:18:57.168731",
-   "modified_by": "Administrator",
-   "name": "Item-purchasing_comments_section",
-=======
    "fieldname": "transport_canada_tc_cylinder_mfct_listing",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4387,7 +3933,6 @@
    "modified": "2017-04-21 09:42:26.747127",
    "modified_by": "Administrator",
    "name": "Item-transport_canada_tc_cylinder_mfct_listing",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4417,11 +3962,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-25 12:05:57.737157",
-=======
    "creation": "2017-04-21 09:42:23.839519",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4429,22 +3970,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "purchasing_comments",
-   "fieldtype": "Text Editor",
-   "hidden": 0,
-   "idx": 81,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "purchasing_comments_section",
-   "label": "Purchasing Comments",
-   "modified": "2017-04-25 12:05:57.737157",
-   "modified_by": "Administrator",
-   "name": "Item-purchasing_comments",
-=======
    "fieldname": "dot_cyl_m_number",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4460,7 +3985,6 @@
    "modified": "2017-04-21 09:42:23.839519",
    "modified_by": "Administrator",
    "name": "Item-dot_cyl_m_number",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4490,11 +4014,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-25 12:04:59.722995",
-=======
    "creation": "2017-04-21 09:42:20.429842",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4502,22 +4022,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "internal_comments",
-   "fieldtype": "Text Editor",
-   "hidden": 0,
-   "idx": 89,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "internal_comments_section",
-   "label": "Internal Comments",
-   "modified": "2017-04-25 12:04:59.722995",
-   "modified_by": "Administrator",
-   "name": "Item-internal_comments",
-=======
    "fieldname": "type_approval_certificate_tped_module_b_or_e",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4533,7 +4037,6 @@
    "modified": "2017-04-21 09:42:20.429842",
    "modified_by": "Administrator",
    "name": "Item-type_approval_certificate_tped_module_b_or_e",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4563,11 +4066,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-21 10:36:21.793238",
-=======
    "creation": "2017-04-21 09:42:17.333403",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4575,24 +4074,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "qa_codes",
-   "fieldtype": "Table",
-   "hidden": 0,
-   "idx": 154,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "alternate_locations",
-   "label": "QA Codes",
-   "modified": "2017-04-21 10:36:21.793238",
-   "modified_by": "Administrator",
-   "name": "Item-qa_codes",
-   "no_copy": 0,
-   "options": "Internal Code Table",
-=======
    "fieldname": "type_approval_certificate_ped_module_b_or_e",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4610,7 +4091,6 @@
    "name": "Item-type_approval_certificate_ped_module_b_or_e",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -4638,36 +4118,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-21 10:33:25.170149",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "creation": "2017-04-21 09:42:14.292641",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "usage",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 48,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "height",
-   "label": "Usage",
-   "modified": "2017-04-21 10:33:25.170149",
-   "modified_by": "Administrator",
-   "name": "Item-usage",
-=======
    "fieldname": "module_d_quality_system",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4683,7 +4141,6 @@
    "modified": "2017-04-21 09:42:14.292641",
    "modified_by": "Administrator",
    "name": "Item-module_d_quality_system",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4710,15 +4167,6 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-21 10:33:21.506208",
-   "default": null,
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-   "description": null,
-=======
    "collapsible": 1,
    "collapsible_depends_on": null,
    "columns": 0,
@@ -4726,27 +4174,10 @@
    "default": null,
    "depends_on": null,
    "description": "Does the item, when purchased, have any approvals to the following?",
->>>>>>> feat: updated customizations
    "docstatus": 0,
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "used_on",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 50,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "usage",
-   "label": "Used On",
-   "modified": "2017-04-21 10:33:21.506208",
-   "modified_by": "Administrator",
-   "name": "Item-used_on",
-=======
    "fieldname": "purchased_items_approvals",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -4762,7 +4193,6 @@
    "modified": "2017-04-21 09:42:13.442819",
    "modified_by": "Administrator",
    "name": "Item-purchased_items_approvals",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -4789,17 +4219,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 1,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-21 08:39:35.339258",
-=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-20 16:31:09.771025",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -4807,22 +4230,6 @@
    "dt": "Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "engineering_details",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 158,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "doc_text",
-   "label": "Engineering Details",
-   "modified": "2017-04-21 08:39:35.339258",
-   "modified_by": "Administrator",
-   "name": "Item-engineering_details",
-=======
    "fieldname": "updated_by_engineering",
    "fieldtype": "Check",
    "hidden": 0,
@@ -4838,18 +4245,13 @@
    "modified": "2017-04-20 16:31:09.771025",
    "modified_by": "Administrator",
    "name": "Item-updated_by_engineering",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-<<<<<<< HEAD
-   "permlevel": 0,
-=======
    "permlevel": 1,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
@@ -4883,15 +4285,6 @@
    "fieldname": "purchasing_code",
    "fieldtype": "Select",
    "hidden": 1,
-<<<<<<< HEAD
-   "idx": 72,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "purchase_details",
-=======
    "idx": 76,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
@@ -4900,7 +4293,6 @@
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": "packing_requirement_notes",
->>>>>>> feat: updated customizations
    "label": "Purchasing Code",
    "modified": "2017-04-10 08:56:17.052639",
    "modified_by": "Administrator",
@@ -4945,16 +4337,10 @@
    "fieldname": "order_frequency",
    "fieldtype": "Select",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 145,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 212,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5003,16 +4389,10 @@
    "fieldname": "reorder_quantity",
    "fieldtype": "Read Only",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 144,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 211,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5061,16 +4441,10 @@
    "fieldname": "reorder_point",
    "fieldtype": "Read Only",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 143,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 210,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5119,16 +4493,10 @@
    "fieldname": "lead_time",
    "fieldtype": "Int",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 142,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 209,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5177,16 +4545,10 @@
    "fieldname": "weekly_usage",
    "fieldtype": "Float",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 141,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 208,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5235,15 +4597,6 @@
    "fieldname": "reorder_notifications",
    "fieldtype": "Section Break",
    "hidden": 1,
-<<<<<<< HEAD
-   "idx": 140,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "workflow_state",
-=======
    "idx": 207,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
@@ -5252,7 +4605,6 @@
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": "uom_proper_type",
->>>>>>> feat: updated customizations
    "label": "Reorder Notifications",
    "modified": "2016-12-08 10:32:30.183050",
    "modified_by": "Administrator",
@@ -5281,8 +4633,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
@@ -5335,7 +4685,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
@@ -5352,16 +4701,10 @@
    "fieldname": "workflow_state",
    "fieldtype": "Link",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 139,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 205,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5410,16 +4753,10 @@
    "fieldname": "is_manufacture_item",
    "fieldtype": "Check",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 118,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 182,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5468,16 +4805,10 @@
    "fieldname": "alternate_locations",
    "fieldtype": "Data",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 153,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 33,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 1,
    "in_standard_filter": 0,
@@ -5526,15 +4857,6 @@
    "fieldname": "primary_location",
    "fieldtype": "Data",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 152,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 1,
-   "in_standard_filter": 0,
-   "insert_after": "drawing",
-=======
    "idx": 32,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
@@ -5543,7 +4865,6 @@
    "in_list_view": 1,
    "in_standard_filter": 0,
    "insert_after": "safety_data_sheet",
->>>>>>> feat: updated customizations
    "label": "Primary Location",
    "modified": "2016-11-07 10:49:16.964847",
    "modified_by": "Administrator",
@@ -5579,11 +4900,7 @@
    "columns": 0,
    "creation": "2016-10-21 13:42:19.516329",
    "default": null,
-<<<<<<< HEAD
-   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
-=======
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Item",
@@ -5595,10 +4912,7 @@
    "idx": 16,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-=======
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -5627,9 +4941,6 @@
    "width": "96"
   }
  ],
-<<<<<<< HEAD
- "custom_perms": [],
-=======
  "custom_perms": [
   {
    "_assign": null,
@@ -6391,7 +5702,6 @@
    "write": 0
   }
  ],
->>>>>>> feat: updated customizations
  "doctype": "Item",
  "property_setters": [
   {
@@ -6399,9 +5709,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-22 13:51:52.412595",
-=======
    "creation": "2019-07-25 15:33:50.778594",
    "default_value": null,
    "doc_type": "Item",
@@ -6449,18 +5756,13 @@
    "_liked_by": null,
    "_user_tags": null,
    "creation": "2019-04-23 10:53:46.512727",
->>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Item",
    "docstatus": 0,
    "doctype_or_field": "DocField",
    "field_name": "barcodes",
    "idx": 0,
-<<<<<<< HEAD
-   "modified": "2019-07-22 13:51:52.412595",
-=======
    "modified": "2019-04-23 10:53:46.512727",
->>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Item-barcodes-hidden",
    "owner": "Administrator",
@@ -6469,8 +5771,6 @@
    "parenttype": null,
    "property": "hidden",
    "property_type": "Check",
-<<<<<<< HEAD
-=======
    "value": "0"
   },
   {
@@ -6586,185 +5886,6 @@
    "parenttype": null,
    "property": "collapsible",
    "property_type": "Check",
->>>>>>> feat: updated customizations
-   "value": "0"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-22 13:51:51.721795",
-=======
-   "creation": "2019-02-07 16:18:59.701887",
->>>>>>> feat: updated customizations
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-<<<<<<< HEAD
-   "field_name": "item_code",
-   "idx": 0,
-   "modified": "2019-07-22 13:51:51.721795",
-   "modified_by": "Administrator",
-   "name": "Item-item_code-reqd",
-=======
-   "field_name": "section_break_11",
-   "idx": 0,
-   "modified": "2019-02-07 16:18:59.701887",
-   "modified_by": "Administrator",
-   "name": "Item-section_break_11-collapsible",
->>>>>>> feat: updated customizations
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-<<<<<<< HEAD
-   "property": "reqd",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-07-22 13:51:51.569290",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "item_code",
-   "idx": 0,
-   "modified": "2019-07-22 13:51:51.569290",
-   "modified_by": "Administrator",
-   "name": "Item-item_code-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-=======
-   "property": "collapsible",
->>>>>>> feat: updated customizations
-   "property_type": "Check",
-   "value": "0"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-22 13:51:51.424185",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "naming_series",
-   "idx": 0,
-   "modified": "2019-07-22 13:51:51.424185",
-   "modified_by": "Administrator",
-   "name": "Item-naming_series-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-07-22 13:51:51.261885",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "naming_series",
-   "idx": 0,
-   "modified": "2019-07-22 13:51:51.261885",
-   "modified_by": "Administrator",
-   "name": "Item-naming_series-reqd",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "reqd",
-   "property_type": "Check",
-   "value": "0"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-06-27 14:32:15.761194",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-06-27 14:32:15.761194",
-   "modified_by": "Administrator",
-   "name": "Item-read_only_onload",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-20 15:31:03.014506",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "hub_publishing_sb",
-   "idx": 0,
-   "modified": "2019-05-20 15:31:03.014506",
-   "modified_by": "Administrator",
-   "name": "Item-hub_publishing_sb-depends_on",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "depends_on",
-   "property_type": "Data",
-   "value": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\""
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-02-07 16:18:59.741721",
-   "default_value": null,
-   "doc_type": "Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "inventory",
-   "idx": 0,
-   "modified": "2019-02-07 16:18:59.741721",
-   "modified_by": "Administrator",
-   "name": "Item-inventory-collapsible",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "collapsible",
-   "property_type": "Check",
    "value": "0"
   },
   {
@@ -6795,8 +5916,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "creation": "2019-02-07 16:18:59.591524",
    "default_value": null,
    "doc_type": "Item",

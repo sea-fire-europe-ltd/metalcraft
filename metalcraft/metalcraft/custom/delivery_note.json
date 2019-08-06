@@ -5,21 +5,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-   "bold": 1,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2019-06-26 16:03:49.659267",
-=======
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2019-06-12 10:23:32.045814",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -27,24 +18,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "date_shipped",
-   "fieldtype": "Date",
-   "hidden": 0,
-   "idx": 125,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 1,
-   "in_standard_filter": 0,
-   "insert_after": "consignment_no",
-   "label": "Date Shipped",
-   "modified": "2019-06-26 16:03:49.659267",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-date_shipped",
-   "no_copy": 0,
-   "options": null,
-=======
    "fieldname": "payment_terms_template",
    "fieldtype": "Link",
    "hidden": 0,
@@ -62,7 +35,6 @@
    "name": "Delivery Note-payment_terms_template",
    "no_copy": 0,
    "options": "Payment Terms Template",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -85,20 +57,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 0,
-=======
    "allow_on_submit": 1,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-03 10:42:06.853753",
-=======
    "creation": "2019-01-04 15:48:46.105199",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -106,24 +70,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "consignment_no",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 124,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "account_no",
-   "label": "Consignment No",
-   "modified": "2019-05-03 10:42:06.853753",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-consignment_no",
-   "no_copy": 0,
-   "options": null,
-=======
    "fieldname": "late_order_reason",
    "fieldtype": "Select",
    "hidden": 0,
@@ -141,7 +87,6 @@
    "name": "Delivery Note-late_order_reason",
    "no_copy": 0,
    "options": "\nEngineered Systems Nozzles\nOrder received late\nUnrealistic ship date\nItem out of stock\nItem not ordered\nInventory Error\nDelivery Note Processing Error",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -155,11 +100,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-<<<<<<< HEAD
-   "translatable": 1,
-=======
    "translatable": 0,
->>>>>>> feat: updated customizations
    "unique": 0,
    "width": null
   },
@@ -168,20 +109,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 0,
-=======
    "allow_on_submit": 1,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:11:49.984679",
-=======
    "creation": "2018-10-12 12:53:28.096090",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -189,24 +122,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "freight_terms",
-   "fieldtype": "Select",
-   "hidden": 0,
-   "idx": 122,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "delivery_method",
-   "label": "Freight Terms",
-   "modified": "2019-05-03 09:53:27.513199",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Delivery Note-freight_terms",
-   "no_copy": 0,
-   "options": "\nFreight Collect\nPrepaid\nPrepay & Add\nThird Party\nEx-Works\nConsignee\nFOC",
-=======
    "fieldname": "accounting_contacted",
    "fieldtype": "Check",
    "hidden": 1,
@@ -224,7 +139,6 @@
    "name": "Delivery Note-accounting_contacted",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -252,11 +166,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-01-04 15:48:46.105199",
-=======
    "creation": "2018-10-09 14:21:33.870321",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -264,25 +174,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "late_order_reason",
-   "fieldtype": "Select",
-   "hidden": 0,
-   "idx": 17,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "company",
-   "label": "Late Order Reason",
-   "modified": "2019-01-04 15:48:46.105199",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-late_order_reason",
-   "no_copy": 0,
-   "options": "\nEngineered Systems Nozzles\nOrder received late\nUnrealistic ship date\nItem out of stock\nItem not ordered\nInventory Error\nDelivery Note Processing Error",
-   "owner": "Administrator",
-=======
    "fieldname": "so_on_hold",
    "fieldtype": "Check",
    "hidden": 0,
@@ -301,7 +192,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -310,11 +200,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -327,20 +213,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-10-12 12:53:28.096090",
-=======
    "creation": "2018-06-18 14:34:04.170769",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -348,22 +226,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "accounting_contacted",
-   "fieldtype": "Check",
-   "hidden": 1,
-   "idx": 3,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "delivery_note_workflow_state",
-   "label": "accounting_contacted",
-   "modified": "2018-10-12 12:53:28.096090",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-accounting_contacted",
-=======
    "fieldname": "sps",
    "fieldtype": "Check",
    "hidden": 0,
@@ -379,7 +241,6 @@
    "modified": "2018-06-18 14:34:04.170769",
    "modified_by": "Administrator",
    "name": "Delivery Note-sps",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -391,11 +252,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -408,20 +265,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-10-09 14:21:33.870321",
-=======
    "creation": "2018-05-04 13:54:59.726289",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -429,22 +278,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "so_on_hold",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 11,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "sps",
-   "label": "so_on_hold",
-   "modified": "2018-10-09 14:28:06.082549",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Delivery Note-so_on_hold",
-=======
    "fieldname": "problem",
    "fieldtype": "Check",
    "hidden": 0,
@@ -460,27 +293,18 @@
    "modified": "2018-05-04 13:54:59.726289",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Delivery Note-problem",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-<<<<<<< HEAD
-   "permlevel": 0,
-=======
    "permlevel": 9,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -498,11 +322,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-06-18 14:34:04.170769",
-=======
    "creation": "2017-06-01 08:27:59.055725",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -510,22 +330,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "sps",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 10,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "customer",
-   "label": "SPS",
-   "modified": "2018-06-18 14:34:04.170769",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-sps",
-=======
    "fieldname": "has_notes",
    "fieldtype": "Check",
    "hidden": 0,
@@ -541,7 +345,6 @@
    "modified": "2017-06-01 08:27:59.055725",
    "modified_by": "Administrator",
    "name": "Delivery Note-has_notes",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -553,11 +356,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -575,43 +374,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-05-04 13:54:59.726289",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2017-06-01 08:27:00.544998",
    "default": null,
    "depends_on": "eval:doc.has_notes",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "problem",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 1,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": null,
-   "label": "Problem",
-   "modified": "2018-05-04 13:54:59.726289",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Delivery Note-problem",
-   "no_copy": 0,
-   "options": null,
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 9,
-=======
    "fieldname": "pack_info_section_2",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -634,7 +404,6 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
@@ -652,20 +421,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-06-01 08:27:59.055725",
-=======
    "creation": "2017-06-01 08:26:41.649528",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -673,22 +434,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "has_notes",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 142,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "pallets",
-   "label": "See Notes",
-   "modified": "2017-06-01 08:27:59.055725",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-has_notes",
-=======
    "fieldname": "packing_notes",
    "fieldtype": "Text Editor",
    "hidden": 0,
@@ -704,7 +449,6 @@
    "modified": "2017-06-01 08:26:41.649528",
    "modified_by": "Administrator",
    "name": "Delivery Note-packing_notes",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -734,36 +478,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-06-01 08:27:00.544998",
-   "default": null,
-   "depends_on": "eval:doc.has_notes",
-=======
    "creation": "2017-05-04 12:23:55.410580",
    "default": null,
    "depends_on": null,
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "pack_info_section_2",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 149,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "exempt",
-   "label": "",
-   "modified": "2017-06-01 08:27:00.544998",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-pack_info_section_2",
-=======
    "fieldname": "notes",
    "fieldtype": "Text Editor",
    "hidden": 0,
@@ -779,7 +501,6 @@
    "modified": "2017-05-04 12:23:55.410580",
    "modified_by": "Administrator",
    "name": "Delivery Note-notes",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -804,20 +525,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-06-01 08:26:41.649528",
-=======
    "creation": "2017-05-03 11:43:00.568355",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -825,22 +538,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "packing_notes",
-   "fieldtype": "Text Editor",
-   "hidden": 0,
-   "idx": 150,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "pack_info_section_2",
-   "label": "Packing Notes",
-   "modified": "2017-06-01 08:26:41.649528",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-packing_notes",
-=======
    "fieldname": "po_number",
    "fieldtype": "Data",
    "hidden": 0,
@@ -856,7 +553,6 @@
    "modified": "2017-05-03 11:43:00.568355",
    "modified_by": "Administrator",
    "name": "Delivery Note-po_number",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -868,11 +564,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -890,11 +582,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-04 12:23:55.410580",
-=======
    "creation": "2017-05-02 11:18:17.266663",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -902,22 +590,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "notes",
-   "fieldtype": "Text Editor",
-   "hidden": 0,
-   "idx": 112,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "more_info",
-   "label": "Notes",
-   "modified": "2017-05-04 12:23:55.410580",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-notes",
-=======
    "fieldname": "cb3",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -933,7 +605,6 @@
    "modified": "2017-05-02 11:18:17.266663",
    "modified_by": "Administrator",
    "name": "Delivery Note-cb3",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -963,11 +634,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-03 11:43:00.568355",
-=======
    "creation": "2017-05-02 11:18:16.556992",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -975,22 +642,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "po_number",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 27,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "po_no",
-   "label": "PO Number",
-   "modified": "2017-05-03 11:43:00.568355",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-po_number",
-=======
    "fieldname": "cb2",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1006,7 +657,6 @@
    "modified": "2017-05-02 11:18:16.556992",
    "modified_by": "Administrator",
    "name": "Delivery Note-cb2",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1018,11 +668,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1040,11 +686,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:18:17.266663",
-=======
    "creation": "2017-05-02 11:18:15.642276",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1052,22 +694,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cb3",
-   "fieldtype": "Column Break",
-   "hidden": 0,
-   "idx": 137,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "third_party_verification",
-   "label": "",
-   "modified": "2017-05-02 11:18:17.266663",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cb3",
-=======
    "fieldname": "cb1",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1083,7 +709,6 @@
    "modified": "2017-05-02 11:18:15.642276",
    "modified_by": "Administrator",
    "name": "Delivery Note-cb1",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1113,11 +738,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:18:16.556992",
-=======
    "creation": "2017-05-02 11:17:18.093082",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1125,22 +746,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cb2",
-   "fieldtype": "Column Break",
-   "hidden": 0,
-   "idx": 135,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "return_to_qa_for_doc",
-   "label": "",
-   "modified": "2017-05-02 11:18:16.556992",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cb2",
-=======
    "fieldname": "manager_verification",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1156,7 +761,6 @@
    "modified": "2017-05-02 11:17:18.093082",
    "modified_by": "Administrator",
    "name": "Delivery Note-manager_verification",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1168,11 +772,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1190,11 +790,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:18:15.642276",
-=======
    "creation": "2017-05-02 11:17:16.580362",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1202,22 +798,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cb1",
-   "fieldtype": "Column Break",
-   "hidden": 0,
-   "idx": 133,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cert_reqd",
-   "label": "",
-   "modified": "2017-05-02 11:18:15.642276",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cb1",
-=======
    "fieldname": "third_party_verification",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1233,7 +813,6 @@
    "modified": "2017-05-02 11:17:16.580362",
    "modified_by": "Administrator",
    "name": "Delivery Note-third_party_verification",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1245,11 +824,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1267,11 +842,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:17:18.093082",
-=======
    "creation": "2017-05-02 11:17:15.189015",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1279,22 +850,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "manager_verification",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 138,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cb3",
-   "label": "Manager Verification",
-   "modified": "2017-05-02 11:17:18.093082",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-manager_verification",
-=======
    "fieldname": "return_to_qa_for_doc",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1310,7 +865,6 @@
    "modified": "2017-05-02 11:17:15.189015",
    "modified_by": "Administrator",
    "name": "Delivery Note-return_to_qa_for_doc",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1340,11 +894,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:17:16.580362",
-=======
    "creation": "2017-05-02 11:17:13.661510",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1352,22 +902,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "third_party_verification",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 136,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cb2",
-   "label": "Third Party Verification",
-   "modified": "2017-05-02 11:17:16.580362",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-third_party_verification",
-=======
    "fieldname": "cert_reqd",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1383,7 +917,6 @@
    "modified": "2017-05-02 11:17:13.661510",
    "modified_by": "Administrator",
    "name": "Delivery Note-cert_reqd",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1413,11 +946,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:17:15.189015",
-=======
    "creation": "2017-05-01 12:51:06.139079",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1425,22 +954,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "return_to_qa_for_doc",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 134,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cb1",
-   "label": "Return to QA for DoC",
-   "modified": "2017-05-02 11:17:15.189015",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-return_to_qa_for_doc",
-=======
    "fieldname": "2",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1456,7 +969,6 @@
    "modified": "2017-05-01 12:51:06.139079",
    "modified_by": "Administrator",
    "name": "Delivery Note-2",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1468,11 +980,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1490,11 +998,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 11:17:13.661510",
-=======
    "creation": "2017-05-01 12:51:05.577300",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1502,22 +1006,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cert_reqd",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 132,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "quality_assurance",
-   "label": "Cert Reqd",
-   "modified": "2017-05-02 11:17:13.661510",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cert_reqd",
-=======
    "fieldname": "1",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1533,7 +1021,6 @@
    "modified": "2017-05-01 12:51:05.577300",
    "modified_by": "Administrator",
    "name": "Delivery Note-1",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1545,11 +1032,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1567,11 +1050,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 12:51:06.139079",
-=======
    "creation": "2017-05-01 08:58:16.744319",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1579,22 +1058,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "2",
-   "fieldtype": "Column Break",
-   "hidden": 0,
-   "idx": 146,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cyl",
-   "label": "",
-   "modified": "2017-05-01 12:51:06.139079",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-2",
-=======
    "fieldname": "exempt",
    "fieldtype": "Data",
    "hidden": 0,
@@ -1610,7 +1073,6 @@
    "modified": "2017-05-01 08:58:16.744319",
    "modified_by": "Administrator",
    "name": "Delivery Note-exempt",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1640,11 +1102,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 12:51:05.577300",
-=======
    "creation": "2017-05-01 08:58:15.206419",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1652,22 +1110,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "1",
-   "fieldtype": "Column Break",
-   "hidden": 0,
-   "idx": 143,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "has_notes",
-   "label": "",
-   "modified": "2017-05-01 12:51:05.577300",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-1",
-=======
    "fieldname": "cartons",
    "fieldtype": "Int",
    "hidden": 0,
@@ -1683,7 +1125,6 @@
    "modified": "2017-05-01 08:58:15.206419",
    "modified_by": "Administrator",
    "name": "Delivery Note-cartons",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1708,20 +1149,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:58:16.744319",
-=======
    "creation": "2017-05-01 08:58:12.794736",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1729,22 +1162,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "exempt",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 148,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cartons",
-   "label": "Exempt",
-   "modified": "2017-05-01 08:58:16.744319",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-exempt",
-=======
    "fieldname": "cyl",
    "fieldtype": "Data",
    "hidden": 0,
@@ -1760,7 +1177,6 @@
    "modified": "2017-05-01 08:58:12.794736",
    "modified_by": "Administrator",
    "name": "Delivery Note-cyl",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1785,20 +1201,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:58:15.206419",
-=======
    "creation": "2017-05-01 08:58:11.269745",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1806,22 +1214,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cartons",
-   "fieldtype": "Int",
-   "hidden": 0,
-   "idx": 147,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "2",
-   "label": "Cartons",
-   "modified": "2017-05-01 08:58:15.206419",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cartons",
-=======
    "fieldname": "vol",
    "fieldtype": "Data",
    "hidden": 0,
@@ -1837,7 +1229,6 @@
    "modified": "2017-05-01 08:58:11.269745",
    "modified_by": "Administrator",
    "name": "Delivery Note-vol",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1862,20 +1253,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:58:12.794736",
-=======
    "creation": "2017-05-01 08:58:07.944004",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1883,22 +1266,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cyl",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 145,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "vol",
-   "label": "Cyl",
-   "modified": "2017-05-01 08:58:12.794736",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cyl",
-=======
    "fieldname": "pallets",
    "fieldtype": "Int",
    "hidden": 0,
@@ -1914,7 +1281,6 @@
    "modified": "2017-05-01 08:58:07.944004",
    "modified_by": "Administrator",
    "name": "Delivery Note-pallets",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1939,20 +1305,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:58:11.269745",
-=======
    "creation": "2017-05-01 08:58:06.471090",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1960,22 +1318,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "vol",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 144,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "1",
-   "label": "Vol",
-   "modified": "2017-05-01 08:58:11.269745",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-vol",
-=======
    "fieldname": "weight",
    "fieldtype": "Int",
    "hidden": 0,
@@ -1991,7 +1333,6 @@
    "modified": "2017-05-01 08:58:06.471090",
    "modified_by": "Administrator",
    "name": "Delivery Note-weight",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2016,21 +1357,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-05-01 08:58:07.944004",
-=======
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 1,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-05-01 08:58:05.803385",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2038,22 +1370,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "pallets",
-   "fieldtype": "Int",
-   "hidden": 0,
-   "idx": 141,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "weight",
-   "label": "Pallets",
-   "modified": "2017-05-01 08:58:07.944004",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-pallets",
-=======
    "fieldname": "packing_information",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -2069,7 +1385,6 @@
    "modified": "2017-05-01 08:58:05.803385",
    "modified_by": "Administrator",
    "name": "Delivery Note-packing_information",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2094,20 +1409,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:58:06.471090",
-=======
    "creation": "2017-05-01 08:42:15.884636",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2115,22 +1422,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "weight",
-   "fieldtype": "Int",
-   "hidden": 0,
-   "idx": 140,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "packing_information",
-   "label": "Weight",
-   "modified": "2017-05-01 08:58:06.471090",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-weight",
-=======
    "fieldname": "old_sales_order_number",
    "fieldtype": "Data",
    "hidden": 1,
@@ -2146,7 +1437,6 @@
    "modified": "2017-05-01 08:42:15.884636",
    "modified_by": "Administrator",
    "name": "Delivery Note-old_sales_order_number",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2171,21 +1461,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 1,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-05-01 08:58:05.803385",
-=======
    "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-30 19:19:19.231215",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2193,25 +1474,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "packing_information",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 139,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "manager_verification",
-   "label": "Packing Information",
-   "modified": "2017-05-01 08:58:05.803385",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-packing_information",
-   "no_copy": 0,
-   "options": null,
-   "owner": "Administrator",
-=======
    "fieldname": "cost",
    "fieldtype": "Data",
    "hidden": 0,
@@ -2230,7 +1492,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "sellisjr@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -2257,11 +1518,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-01 08:42:15.884636",
-=======
    "creation": "2017-04-30 17:51:25.433417",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2269,22 +1526,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "old_sales_order_number",
-   "fieldtype": "Data",
-   "hidden": 1,
-   "idx": 7,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "title",
-   "label": "Old Sales Order Number",
-   "modified": "2017-05-01 08:42:15.884636",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-old_sales_order_number",
-=======
    "fieldname": "scheduled_ship_date",
    "fieldtype": "Date",
    "hidden": 0,
@@ -2300,7 +1541,6 @@
    "modified": "2017-04-30 17:51:25.433417",
    "modified_by": "Administrator",
    "name": "Delivery Note-scheduled_ship_date",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2312,11 +1552,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2329,20 +1565,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 1,
-=======
    "allow_on_submit": 0,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-30 19:19:19.231215",
-=======
    "creation": "2017-04-30 14:00:19.337681",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2350,25 +1578,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cost",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 130,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "tracking_number",
-   "label": "cost",
-   "modified": "2017-04-30 19:19:19.231215",
-   "modified_by": "sellisjr@sea-fire.com",
-   "name": "Delivery Note-cost",
-   "no_copy": 0,
-   "options": null,
-   "owner": "sellisjr@sea-fire.com",
-=======
    "fieldname": "payment_terms1",
    "fieldtype": "Link",
    "hidden": 0,
@@ -2387,7 +1596,6 @@
    "no_copy": 0,
    "options": "Payment Terms",
    "owner": "Administrator",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -2411,17 +1619,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-30 17:51:25.433417",
-=======
    "collapsible": 1,
    "collapsible_depends_on": "eval:doc.internal_codes",
    "columns": 0,
    "creation": "2017-04-27 12:27:16.421264",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2429,22 +1630,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "scheduled_ship_date",
-   "fieldtype": "Date",
-   "hidden": 0,
-   "idx": 19,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "posting_date",
-   "label": "Scheduled Ship Date",
-   "modified": "2017-04-30 17:51:25.433417",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-scheduled_ship_date",
-=======
    "fieldname": "internal_codes_section",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -2460,7 +1645,6 @@
    "modified": "2017-04-27 12:35:23.400720",
    "modified_by": "Administrator",
    "name": "Delivery Note-internal_codes_section",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2472,11 +1656,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2491,17 +1671,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-04-30 14:00:19.337681",
-=======
    "collapsible": 1,
    "collapsible_depends_on": "",
    "columns": 0,
    "creation": "2017-04-27 12:27:15.425877",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2509,24 +1682,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "payment_terms1",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 13,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "customer_name",
-   "label": "Payment Terms",
-   "modified": "2017-04-30 14:00:19.337681",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-payment_terms1",
-   "no_copy": 0,
-   "options": "Payment Terms",
-=======
    "fieldname": "quality_assurance",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -2544,7 +1699,6 @@
    "name": "Delivery Note-quality_assurance",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2569,17 +1723,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 1,
-   "collapsible_depends_on": "eval:doc.internal_codes",
-   "columns": 0,
-   "creation": "2017-04-27 12:27:16.421264",
-=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-27 12:27:16.740535",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2587,24 +1734,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "internal_codes_section",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 58,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "items",
-   "label": "Internal Codes Section",
-   "modified": "2017-04-27 12:35:23.400720",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-internal_codes_section",
-   "no_copy": 0,
-   "options": null,
-=======
    "fieldname": "internal_codes",
    "fieldtype": "Table",
    "hidden": 0,
@@ -2622,7 +1751,6 @@
    "name": "Delivery Note-internal_codes",
    "no_copy": 0,
    "options": "Internal Code Table",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2647,17 +1775,10 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
-<<<<<<< HEAD
-   "collapsible": 1,
-   "collapsible_depends_on": "",
-   "columns": 0,
-   "creation": "2017-04-27 12:27:15.425877",
-=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-27 10:17:45.063393",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2665,22 +1786,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "quality_assurance",
-   "fieldtype": "Section Break",
-   "hidden": 0,
-   "idx": 131,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cost",
-   "label": "Quality Assurance",
-   "modified": "2017-04-27 12:34:28.193958",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-quality_assurance",
-=======
    "fieldname": "cbshipping1",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -2696,7 +1801,6 @@
    "modified": "2017-04-27 10:17:45.063393",
    "modified_by": "Administrator",
    "name": "Delivery Note-cbshipping1",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2726,11 +1830,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 12:27:16.740535",
-=======
    "creation": "2017-04-27 10:11:51.654629",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2738,24 +1838,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "internal_codes",
-   "fieldtype": "Table",
-   "hidden": 0,
-   "idx": 59,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "internal_codes_section",
-   "label": "Internal Codes",
-   "modified": "2017-04-27 12:27:16.740535",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-internal_codes",
-   "no_copy": 0,
-   "options": "Internal Code Table",
-=======
    "fieldname": "early_dispatch_eligible",
    "fieldtype": "Select",
    "hidden": 0,
@@ -2773,7 +1855,6 @@
    "name": "Delivery Note-early_dispatch_eligible",
    "no_copy": 0,
    "options": "No\nYes",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2801,11 +1882,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:17:45.063393",
-=======
    "creation": "2017-04-27 10:11:51.166596",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2813,29 +1890,12 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "cbshipping1",
-   "fieldtype": "Column Break",
-=======
    "fieldname": "fob",
    "fieldtype": "Select",
->>>>>>> feat: updated customizations
    "hidden": 0,
    "idx": 126,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "date_shipped",
-   "label": "",
-   "modified": "2017-04-27 10:17:45.063393",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-cbshipping1",
-   "no_copy": 0,
-   "options": null,
-=======
    "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
@@ -2847,7 +1907,6 @@
    "name": "Delivery Note-fob",
    "no_copy": 0,
    "options": "\nOrigin\nDestination",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2875,11 +1934,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:11:51.654629",
-=======
    "creation": "2017-04-27 10:11:50.617763",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2887,24 +1942,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "early_dispatch_eligible",
-   "fieldtype": "Select",
-   "hidden": 0,
-   "idx": 128,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "fob",
-   "label": "Early Dispatch Eligible",
-   "modified": "2017-04-27 10:11:51.654629",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-early_dispatch_eligible",
-   "no_copy": 0,
-   "options": "No\nYes",
-=======
    "fieldname": "account_no",
    "fieldtype": "Data",
    "hidden": 0,
@@ -2922,7 +1959,6 @@
    "name": "Delivery Note-account_no",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2950,11 +1986,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:11:51.166596",
-=======
    "creation": "2017-04-27 10:11:49.984679",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2962,24 +1994,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "fob",
-   "fieldtype": "Select",
-   "hidden": 0,
-   "idx": 127,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cbshipping1",
-   "label": "FOB",
-   "modified": "2017-04-27 10:11:51.166596",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-fob",
-   "no_copy": 0,
-   "options": "\nOrigin\nDestination",
-=======
    "fieldname": "freight_terms",
    "fieldtype": "Select",
    "hidden": 0,
@@ -2997,7 +2011,6 @@
    "name": "Delivery Note-freight_terms",
    "no_copy": 0,
    "options": "\nFreight Collect\nPrepaid\nPrepay & Add\nThird Party\nEx-Works\nConsignee",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3025,11 +2038,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:11:50.617763",
-=======
    "creation": "2017-04-27 10:11:49.347596",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -3037,24 +2046,6 @@
    "dt": "Delivery Note",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "account_no",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 123,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "freight_terms",
-   "label": "Account No",
-   "modified": "2017-04-27 10:11:50.617763",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-account_no",
-   "no_copy": 0,
-   "options": null,
-=======
    "fieldname": "delivery_method",
    "fieldtype": "Link",
    "hidden": 0,
@@ -3072,7 +2063,6 @@
    "name": "Delivery Note-delivery_method",
    "no_copy": 0,
    "options": "Delivery Method",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3100,60 +2090,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-04-27 10:11:49.347596",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Delivery Note",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "delivery_method",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 121,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "shipping",
-   "label": "Delivery Method",
-   "modified": "2017-04-27 10:11:49.347596",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-delivery_method",
-   "no_copy": 0,
-   "options": "Delivery Method",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 0,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-=======
->>>>>>> feat: updated customizations
    "creation": "2017-04-27 10:11:48.705512",
    "default": null,
    "depends_on": null,
@@ -3165,16 +2101,10 @@
    "fieldname": "shipping",
    "fieldtype": "Section Break",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 120,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 121,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -3223,16 +2153,10 @@
    "fieldname": "tracking_number",
    "fieldtype": "Data",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 129,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-=======
    "idx": 128,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -3284,10 +2208,7 @@
    "idx": 2,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-=======
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -3324,18 +2245,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-22 13:51:52.721329",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "scan_barcode",
-   "idx": 0,
-   "modified": "2019-07-22 13:51:52.721329",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-scan_barcode-hidden",
-=======
    "creation": "2019-06-12 10:24:31.878723",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -3346,15 +2255,10 @@
    "modified": "2019-06-12 10:24:31.878723",
    "modified_by": "Administrator",
    "name": "Delivery Note-read_only_onload",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-<<<<<<< HEAD
-   "property": "hidden",
-   "property_type": "Check",
-=======
    "property": "read_only_onload",
    "property_type": "Check",
    "value": null
@@ -3380,7 +2284,6 @@
    "parenttype": null,
    "property": "permlevel",
    "property_type": "Int",
->>>>>>> feat: updated customizations
    "value": "0"
   },
   {
@@ -3388,327 +2291,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-01 12:39:17.570015",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-07-01 12:39:17.570015",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-read_only_onload",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-23 16:48:15.552318",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "ignore_pricing_rule",
-   "idx": 0,
-   "modified": "2019-05-23 16:48:15.552318",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-ignore_pricing_rule-permlevel",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "permlevel",
-   "property_type": "Int",
-   "value": "0"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-03 10:11:01.377901",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "taxes_and_charges",
-   "idx": 0,
-   "modified": "2019-05-03 10:11:01.377901",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Delivery Note-taxes_and_charges-reqd",
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "reqd",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:56.241169",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "in_words",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:56.241169",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-in_words-print_hide",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "print_hide",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:56.097843",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "in_words",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:56.097843",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-in_words-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:54.132179",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "rounded_total",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:54.132179",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-rounded_total-print_hide",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "print_hide",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:53.984510",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "rounded_total",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:53.984510",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-rounded_total-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:53.843901",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "base_rounded_total",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:53.843901",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-base_rounded_total-print_hide",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "print_hide",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-01 17:53:53.702561",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "base_rounded_total",
-   "idx": 0,
-   "modified": "2019-05-01 17:53:53.702561",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-base_rounded_total-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2016-08-01 10:52:04.238297",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "naming_series",
-   "idx": 0,
-   "modified": "2019-05-01 08:06:44.637420",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-naming_series-default",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "default",
-   "property_type": "Text",
-   "value": "7.####"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2016-06-16 09:26:50.968462",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "naming_series",
-   "idx": 0,
-   "modified": "2019-05-01 08:06:44.594669",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-naming_series-options",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "options",
-   "property_type": "Text",
-   "value": "7.####\nD-.YY.MM.###"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-04-30 22:53:07.588765",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-04-30 22:53:07.588765",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-default_print_format",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "default_print_format",
-   "property_type": "Data",
-   "value": "Packing List SFE"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-04-30 15:29:53.696888",
-   "default_value": null,
-   "doc_type": "Delivery Note",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "tax_id",
-   "idx": 0,
-   "modified": "2019-04-30 15:29:53.696888",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-tax_id-print_hide",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "print_hide",
-   "property_type": "Check",
-   "value": "0"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-04-30 15:29:53.553841",
-=======
    "creation": "2019-04-23 10:53:46.678127",
->>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Delivery Note",
    "docstatus": 0,
    "doctype_or_field": "DocField",
-<<<<<<< HEAD
-   "field_name": "tax_id",
-   "idx": 0,
-   "modified": "2019-04-30 15:29:53.553841",
-   "modified_by": "Administrator",
-   "name": "Delivery Note-tax_id-hidden",
-=======
    "field_name": "scan_barcode",
    "idx": 0,
    "modified": "2019-04-23 10:53:46.678127",
    "modified_by": "Administrator",
    "name": "Delivery Note-scan_barcode-hidden",
->>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3952,8 +2544,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "creation": "2016-06-16 09:26:50.968462",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4000,7 +2590,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "creation": "2017-06-16 09:13:38.024918",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4024,8 +2613,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "creation": "2017-05-18 09:08:27.998793",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4164,7 +2751,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "creation": "2017-04-30 18:28:55.639046",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4234,8 +2820,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "creation": "2017-04-30 18:16:28.559693",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4259,7 +2843,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "creation": "2017-04-30 17:49:05.601656",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4628,8 +3211,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "creation": "2016-06-21 15:12:56.308940",
    "default_value": null,
    "doc_type": "Delivery Note",
@@ -4653,7 +3234,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "creation": "2016-06-21 13:27:29.455600",
    "default_value": null,
    "doc_type": "Delivery Note",

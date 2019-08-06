@@ -10,11 +10,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-01 10:16:10.804764",
-=======
    "creation": "2017-05-02 16:18:59.146028",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -22,22 +18,6 @@
    "dt": "Address",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "vat_number",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 13,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "column_break0",
-   "label": "VAT Number",
-   "modified": "2019-05-01 10:16:10.804764",
-   "modified_by": "Administrator",
-   "name": "Address-vat_number",
-=======
    "fieldname": "address_line4",
    "fieldtype": "Data",
    "hidden": 0,
@@ -53,63 +33,6 @@
    "modified": "2017-05-02 16:18:59.146028",
    "modified_by": "Administrator",
    "name": "Address-address_line4",
->>>>>>> feat: updated customizations
-   "no_copy": 0,
-   "options": null,
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-<<<<<<< HEAD
-   "translatable": 1,
-=======
-   "translatable": 0,
->>>>>>> feat: updated customizations
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-05-02 16:18:59.146028",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Address",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "address_line4",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 7,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "address_line3",
-   "label": "Address Line 4",
-   "modified": "2017-05-02 16:18:59.146028",
-   "modified_by": "Administrator",
-   "name": "Address-address_line4",
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -139,8 +62,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-=======
->>>>>>> feat: updated customizations
    "creation": "2017-05-02 16:18:57.687725",
    "default": null,
    "depends_on": null,
@@ -155,10 +76,7 @@
    "idx": 6,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-=======
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -187,9 +105,6 @@
    "width": null
   }
  ],
-<<<<<<< HEAD
- "custom_perms": [],
-=======
  "custom_perms": [
   {
    "_assign": null,
@@ -390,7 +305,6 @@
    "write": 0
   }
  ],
->>>>>>> feat: updated customizations
  "doctype": "Address",
  "property_setters": [
   {
@@ -398,32 +312,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-01 10:16:10.761782",
-   "default_value": null,
-   "doc_type": "Address",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-05-01 10:16:10.761782",
-   "modified_by": "Administrator",
-   "name": "Address-read_only_onload",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "creation": "2017-05-16 09:24:25.837202",
    "default_value": null,
    "doc_type": "Address",
@@ -465,8 +353,6 @@
    "property_type": "Check",
    "value": "0"
   },
-<<<<<<< HEAD
-=======
   {
    "_assign": null,
    "_comments": null,
@@ -490,7 +376,6 @@
    "property_type": "Check",
    "value": null
   },
->>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,

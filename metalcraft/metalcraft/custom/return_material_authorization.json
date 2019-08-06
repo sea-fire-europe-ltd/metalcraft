@@ -10,39 +10,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-08 22:31:28.637303",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2019-06-06 15:23:51.579718",
    "default": null,
    "depends_on": "eval:doc.cylinder_requalification",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Return Material Authorization",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "rehydro",
-   "fieldtype": "Check",
-   "hidden": 0,
-   "idx": 45,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "cb5",
-   "label": "Rehydro",
-   "modified": "2019-05-08 22:31:28.637303",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-rehydro",
-   "no_copy": 0,
-   "options": null,
-   "owner": "Administrator",
-=======
    "fieldname": "test_report",
    "fieldtype": "Select",
    "hidden": 0,
@@ -61,7 +36,6 @@
    "no_copy": 0,
    "options": "\nYes\nNo",
    "owner": "psidelinger@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -74,11 +48,7 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
-<<<<<<< HEAD
-   "translatable": 0,
-=======
    "translatable": 1,
->>>>>>> feat: updated customizations
    "unique": 0,
    "width": null
   },
@@ -92,39 +62,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-08 22:29:16.891668",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2019-06-06 15:23:51.308869",
    "default": null,
    "depends_on": "eval:doc.cylinder_requalification",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Return Material Authorization",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "purchase_order",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 49,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "sales_order",
-   "label": "Purchase Order",
-   "modified": "2019-05-08 22:29:16.891668",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-purchase_order",
-   "no_copy": 0,
-   "options": "Purchase Order",
-   "owner": "Administrator",
-=======
    "fieldname": "cylinder_date",
    "fieldtype": "Date",
    "hidden": 0,
@@ -143,7 +88,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "psidelinger@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -170,39 +114,14 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-08 22:25:39.083274",
-   "default": null,
-   "depends_on": null,
-=======
    "creation": "2019-06-06 15:20:27.775033",
    "default": null,
    "depends_on": "eval:doc.cylinder_requalification",
->>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Return Material Authorization",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "return_freight_cost",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 17,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "return_instructions",
-   "label": "Return Freight Cost",
-   "modified": "2019-05-08 22:25:39.083274",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-return_freight_cost",
-   "no_copy": 0,
-   "options": null,
-   "owner": "Administrator",
-=======
    "fieldname": "cylinder_po",
    "fieldtype": "Data",
    "hidden": 0,
@@ -221,7 +140,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "psidelinger@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -243,8 +161,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
@@ -297,17 +213,12 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-06 19:15:10.151058",
-=======
    "creation": "2019-02-13 09:58:04.215658",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -321,20 +232,13 @@
    "idx": 1,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-=======
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": null,
    "label": "Workflow State",
-<<<<<<< HEAD
-   "modified": "2019-05-06 19:15:10.151058",
-=======
    "modified": "2019-04-13 17:22:44.851761",
->>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Return Material Authorization-workflow_state",
    "no_copy": 1,
@@ -344,11 +248,7 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
-<<<<<<< HEAD
-   "precision": null,
-=======
    "precision": "",
->>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -361,37 +261,12 @@
    "width": null
   }
  ],
-<<<<<<< HEAD
- "custom_perms": [],
- "doctype": "Return Material Authorization",
- "property_setters": [
-=======
  "custom_perms": [
->>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-08 23:39:52.863255",
-   "default_value": null,
-   "doc_type": "Return Material Authorization",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "return_instructions",
-   "idx": 0,
-   "modified": "2019-05-08 23:39:52.863255",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-return_instructions-options",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "options",
-   "property_type": "Text",
-   "value": "\nCustomer will drop-off\nCustomer will pay for return freight\nSFE will pay for return freight"
-=======
    "amend": 0,
    "cancel": 0,
    "create": 1,
@@ -452,32 +327,12 @@
    "share": 1,
    "submit": 0,
    "write": 1
->>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-08 23:39:52.845090",
-   "default_value": null,
-   "doc_type": "Return Material Authorization",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-05-08 23:39:52.845090",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-read_only_onload",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
-=======
    "amend": 0,
    "cancel": 0,
    "create": 0,
@@ -505,32 +360,12 @@
    "share": 1,
    "submit": 0,
    "write": 1
->>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-08 22:25:39.061503",
-   "default_value": null,
-   "doc_type": "Return Material Authorization",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "dept",
-   "idx": 0,
-   "modified": "2019-05-08 22:25:39.061503",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-dept-default",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "default",
-   "property_type": "Text",
-   "value": "All Departments"
-=======
    "amend": 0,
    "cancel": 0,
    "create": 0,
@@ -558,32 +393,12 @@
    "share": 1,
    "submit": 0,
    "write": 1
->>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-08 22:25:39.058318",
-   "default_value": null,
-   "doc_type": "Return Material Authorization",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "dept",
-   "idx": 0,
-   "modified": "2019-05-08 22:25:39.058318",
-   "modified_by": "Administrator",
-   "name": "Return Material Authorization-dept-hidden",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "hidden",
-   "property_type": "Check",
-   "value": "1"
-=======
    "amend": 0,
    "cancel": 0,
    "create": 0,
@@ -637,7 +452,6 @@
    "property": "read_only_onload",
    "property_type": "Check",
    "value": null
->>>>>>> feat: updated customizations
   }
  ],
  "sync_on_migrate": 1
