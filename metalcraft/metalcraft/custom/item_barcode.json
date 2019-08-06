@@ -8,14 +8,22 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-07-22 13:51:51.977847",
+=======
+   "creation": "2019-04-23 10:53:45.955639",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Item Barcode",
    "docstatus": 0,
    "doctype_or_field": "DocField",
    "field_name": "barcode",
    "idx": 0,
+<<<<<<< HEAD
    "modified": "2019-07-22 13:51:51.977847",
+=======
+   "modified": "2019-04-23 10:53:45.955639",
+>>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Item Barcode-barcode-hidden",
    "owner": "Administrator",

@@ -10,7 +10,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-06-14 14:59:17.230103",
+=======
+   "creation": "2019-06-12 14:09:09.915711",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -18,6 +22,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "section_break_1",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -32,6 +37,23 @@
    "modified": "2019-06-14 14:59:17.230103",
    "modified_by": "Administrator",
    "name": "Sales Order-section_break_1",
+=======
+   "fieldname": "qa_ped",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 68,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "return_to_qa_for_ce_electrics_doc",
+   "label": "Return to QA for CE/PED/MED Cylinder DoC: provide batch# / label serial#",
+   "modified": "2019-06-12 14:09:09.915711",
+   "modified_by": "Administrator",
+   "name": "Sales Order-qa_ped",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -56,12 +78,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-06-14 14:59:15.651646",
+=======
+   "creation": "2019-06-05 09:43:50.758920",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -69,6 +99,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "is_commissioned",
    "fieldtype": "Check",
    "hidden": 0,
@@ -86,6 +117,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "return_to_qa_for_ce_electrics_doc",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 67,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "return_to_qa_for_doc",
+   "label": "Return to QA for CE Electrics DoC: provide batch# / serial# / PO",
+   "modified": "2019-06-05 09:43:50.758920",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-return_to_qa_for_ce_electrics_doc",
+   "no_copy": 0,
+   "options": null,
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -107,12 +158,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-05-01 11:42:32.049816",
+=======
+   "creation": "2019-06-05 09:42:48.108788",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -120,6 +179,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "printed",
    "fieldtype": "Check",
    "hidden": 0,
@@ -137,6 +197,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "cof",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 63,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "coc_o",
+   "label": "CoF: complete attached CoF",
+   "modified": "2019-06-05 09:42:48.108788",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-cof",
+   "no_copy": 0,
+   "options": null,
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -161,16 +241,25 @@
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
+<<<<<<< HEAD
    "collapsible_depends_on": "",
    "columns": 0,
    "creation": "2019-02-11 14:56:27.638924",
    "default": null,
    "depends_on": "rma_check",
+=======
+   "collapsible_depends_on": null,
+   "columns": 0,
+   "creation": "2019-06-05 09:42:46.001735",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "return_material_authorization_information",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -188,6 +277,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "coc_o",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 62,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "coc",
+   "label": "CoC-O: provide each batch# / serial# / PO",
+   "modified": "2019-06-05 09:42:46.001735",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-coc_o",
+   "no_copy": 0,
+   "options": null,
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -214,7 +323,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-02-11 14:56:30.061575",
+=======
+   "creation": "2019-06-05 09:42:43.704882",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -222,6 +335,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "rma_table",
    "fieldtype": "Table",
    "hidden": 0,
@@ -239,6 +353,26 @@
    "no_copy": 0,
    "options": "RMA Item",
    "owner": "Administrator",
+=======
+   "fieldname": "coc",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 61,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "cert_reqd",
+   "label": "CoC: provide batch# / serial#",
+   "modified": "2019-06-05 09:42:43.704882",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-coc",
+   "no_copy": 0,
+   "options": null,
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -247,7 +381,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 1,
+=======
+   "read_only": 0,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -265,7 +403,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-02-11 14:56:29.064487",
+=======
+   "creation": "2019-06-05 09:40:58.853826",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -273,6 +415,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "rma",
    "fieldtype": "Link",
    "hidden": 0,
@@ -290,6 +433,26 @@
    "no_copy": 0,
    "options": "Return Material Authorization",
    "owner": "Administrator",
+=======
+   "fieldname": "pictures_required_for",
+   "fieldtype": "Select",
+   "hidden": 0,
+   "idx": 68,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "qa_ped",
+   "label": "Pictures Required For",
+   "modified": "2019-06-05 09:40:58.853826",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-pictures_required_for",
+   "no_copy": 0,
+   "options": "\nThird Party\nManager Verification\nCustomer Request",
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -302,7 +465,11 @@
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
+<<<<<<< HEAD
    "translatable": 0,
+=======
+   "translatable": 1,
+>>>>>>> feat: updated customizations
    "unique": 0,
    "width": null
   },
@@ -316,7 +483,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2019-02-11 14:56:26.003870",
+=======
+   "creation": "2019-06-05 09:40:56.056254",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -324,6 +495,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "rma_check",
    "fieldtype": "Check",
    "hidden": 0,
@@ -341,6 +513,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "third_party_verification_date",
+   "fieldtype": "Date",
+   "hidden": 0,
+   "idx": 183,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "third_party_verification",
+   "label": "Third Party Verification Date",
+   "modified": "2019-06-05 09:40:56.056254",
+   "modified_by": "psidelinger@sea-fire.com",
+   "name": "Sales Order-third_party_verification_date",
+   "no_copy": 0,
+   "options": null,
+   "owner": "psidelinger@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -365,16 +557,25 @@
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 0,
+<<<<<<< HEAD
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2018-12-21 09:05:14.320999",
    "default": null,
    "depends_on": null,
+=======
+   "collapsible_depends_on": "",
+   "columns": 0,
+   "creation": "2019-02-11 14:56:27.638924",
+   "default": null,
+   "depends_on": "rma_check",
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "production_notes",
    "fieldtype": "Text",
    "hidden": 0,
@@ -389,6 +590,23 @@
    "modified": "2018-12-21 09:05:14.320999",
    "modified_by": "Administrator",
    "name": "Sales Order-production_notes",
+=======
+   "fieldname": "return_material_authorization_information",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 34,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "rma_check",
+   "label": "Return Material Authorization Information",
+   "modified": "2019-02-11 15:08:20.735160",
+   "modified_by": "Administrator",
+   "name": "Sales Order-return_material_authorization_information",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -413,12 +631,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-10-12 10:08:35.079423",
+=======
+   "creation": "2019-02-11 14:56:30.061575",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -426,6 +652,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "accounting_contacted",
    "fieldtype": "Check",
    "hidden": 1,
@@ -442,6 +669,25 @@
    "name": "Sales Order-accounting_contacted",
    "no_copy": 0,
    "options": null,
+=======
+   "fieldname": "rma_table",
+   "fieldtype": "Table",
+   "hidden": 0,
+   "idx": 36,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "rma",
+   "label": "RMA Table",
+   "modified": "2019-02-11 15:07:17.736788",
+   "modified_by": "Administrator",
+   "name": "Sales Order-rma_table",
+   "no_copy": 0,
+   "options": "RMA Item",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -451,7 +697,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -469,14 +719,21 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-06-18 14:30:53.872636",
    "default": null,
    "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
+=======
+   "creation": "2019-02-11 14:56:29.064487",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "sps",
    "fieldtype": "Check",
    "hidden": 0,
@@ -493,6 +750,25 @@
    "name": "Sales Order-sps",
    "no_copy": 0,
    "options": null,
+=======
+   "fieldname": "rma",
+   "fieldtype": "Link",
+   "hidden": 0,
+   "idx": 35,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "return_material_authorization_information",
+   "label": "RMA",
+   "modified": "2019-02-11 14:56:29.064487",
+   "modified_by": "Administrator",
+   "name": "Sales Order-rma",
+   "no_copy": 0,
+   "options": "Return Material Authorization",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -502,7 +778,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 1,
+=======
+   "read_only": 0,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -520,7 +800,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-05-30 13:37:42.739120",
+=======
+   "creation": "2019-02-11 14:56:26.003870",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -528,6 +812,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "project_section",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -542,6 +827,23 @@
    "modified": "2018-05-30 13:37:42.739120",
    "modified_by": "Administrator",
    "name": "Sales Order-project_section",
+=======
+   "fieldname": "rma_check",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 33,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "po_date",
+   "label": "RMA",
+   "modified": "2019-02-11 14:56:26.003870",
+   "modified_by": "Administrator",
+   "name": "Sales Order-rma_check",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -566,19 +868,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-05-30 13:34:19.411269",
    "default": null,
    "depends_on": "",
+=======
+   "creation": "2018-12-21 09:05:14.320999",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ra_number",
    "fieldtype": "Data",
    "hidden": 0,
@@ -593,6 +906,23 @@
    "modified": "2018-05-30 13:34:19.411269",
    "modified_by": "Administrator",
    "name": "Sales Order-ra_number",
+=======
+   "fieldname": "production_notes",
+   "fieldtype": "Text",
+   "hidden": 0,
+   "idx": 6,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "customer_support_notes",
+   "label": "Production Notes",
+   "modified": "2018-12-21 09:05:14.320999",
+   "modified_by": "Administrator",
+   "name": "Sales Order-production_notes",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -617,19 +947,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-05-30 13:34:18.373635",
    "default": null,
    "depends_on": "eval:doc.campaign",
+=======
+   "creation": "2018-10-12 10:08:35.079423",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "nordhaven",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -644,9 +985,343 @@
    "modified": "2018-05-30 13:34:18.373635",
    "modified_by": "Administrator",
    "name": "Sales Order-nordhaven",
+=======
+   "fieldname": "accounting_contacted",
+   "fieldtype": "Check",
+   "hidden": 1,
+   "idx": 20,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "customer",
+   "label": "Accounting Contacted",
+   "modified": "2018-10-12 10:08:35.079423",
+   "modified_by": "Administrator",
+   "name": "Sales Order-accounting_contacted",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+<<<<<<< HEAD
+   "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-05-30 13:29:33.669952",
+   "default": null,
+   "depends_on": null,
+=======
+   "creation": "2018-06-18 14:30:53.872636",
+   "default": null,
+   "depends_on": "eval: frappe.defaults.get_default(\"company\") == \"Metalcraft, Inc.\"",
+>>>>>>> feat: updated customizations
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "vessel_owner",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 150,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "cbcampaign",
+   "label": "Vessel Owner",
+   "modified": "2018-05-30 13:29:33.669952",
+   "modified_by": "Administrator",
+   "name": "Sales Order-vessel_owner",
+=======
+   "fieldname": "sps",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 21,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "accounting_contacted",
+   "label": "SPS",
+   "modified": "2018-06-18 14:30:53.872636",
+   "modified_by": "Administrator",
+   "name": "Sales Order-sps",
+>>>>>>> feat: updated customizations
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+<<<<<<< HEAD
+   "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-05-30 13:29:32.688382",
+=======
+   "creation": "2018-05-30 13:37:42.739120",
+>>>>>>> feat: updated customizations
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "cbcampaign",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 149,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "vessel_name",
+   "label": "",
+   "modified": "2018-05-30 13:29:32.688382",
+   "modified_by": "Administrator",
+   "name": "Sales Order-cbcampaign",
+=======
+   "fieldname": "project_section",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 136,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "notes1",
+   "label": "Project",
+   "modified": "2018-05-30 13:37:42.739120",
+   "modified_by": "Administrator",
+   "name": "Sales Order-project_section",
+>>>>>>> feat: updated customizations
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+<<<<<<< HEAD
+   "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-05-30 13:28:23.032483",
+   "default": null,
+   "depends_on": null,
+=======
+   "creation": "2018-05-30 13:34:19.411269",
+   "default": null,
+   "depends_on": "",
+>>>>>>> feat: updated customizations
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "campaign_section",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 144,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "source",
+   "label": "Campaign",
+   "modified": "2018-05-30 13:28:23.032483",
+   "modified_by": "Administrator",
+   "name": "Sales Order-campaign_section",
+=======
+   "fieldname": "ra_number",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 148,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "vessel_owner",
+   "label": "RA Number",
+   "modified": "2018-05-30 13:34:19.411269",
+   "modified_by": "Administrator",
+   "name": "Sales Order-ra_number",
+>>>>>>> feat: updated customizations
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+<<<<<<< HEAD
+   "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-05-30 12:49:39.435294",
+   "default": null,
+   "depends_on": "",
+=======
+   "creation": "2018-05-30 13:34:18.373635",
+   "default": null,
+   "depends_on": "eval:doc.campaign",
+>>>>>>> feat: updated customizations
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "vessel_name",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 148,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "hull_number",
+   "label": "Vessel Name",
+   "modified": "2018-05-30 12:49:39.435294",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-vessel_name",
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "nordhaven",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 143,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "campaign",
+   "label": "ESRS",
+   "modified": "2018-05-30 13:34:18.373635",
+   "modified_by": "Administrator",
+   "name": "Sales Order-nordhaven",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -673,20 +1348,44 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-05-30 12:49:38.431430",
+   "default": null,
+   "depends_on": "",
+=======
    "creation": "2018-05-30 13:29:33.669952",
    "default": null,
    "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "hull_number",
+=======
    "fieldname": "vessel_owner",
+>>>>>>> feat: updated customizations
    "fieldtype": "Data",
    "hidden": 0,
-   "idx": 150,
+   "idx": 147,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+<<<<<<< HEAD
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "nordhaven",
+   "label": "Hull Number",
+   "modified": "2018-05-30 12:49:38.431430",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-hull_number",
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+=======
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -698,6 +1397,7 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -721,6 +1421,8 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
+<<<<<<< HEAD
+=======
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
@@ -735,9 +1437,10 @@
    "fieldname": "cbcampaign",
    "fieldtype": "Column Break",
    "hidden": 0,
-   "idx": 149,
+   "idx": 146,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -786,9 +1489,10 @@
    "fieldname": "campaign_section",
    "fieldtype": "Section Break",
    "hidden": 0,
-   "idx": 144,
+   "idx": 141,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -837,9 +1541,10 @@
    "fieldname": "vessel_name",
    "fieldtype": "Data",
    "hidden": 0,
-   "idx": 148,
+   "idx": 145,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -888,9 +1593,10 @@
    "fieldname": "hull_number",
    "fieldtype": "Data",
    "hidden": 0,
-   "idx": 147,
+   "idx": 144,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -925,6 +1631,7 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
+>>>>>>> feat: updated customizations
    "collapsible": 1,
    "collapsible_depends_on": "",
    "columns": 0,
@@ -938,6 +1645,7 @@
    "fetch_if_empty": 0,
    "fieldname": "late_order",
    "fieldtype": "Section Break",
+<<<<<<< HEAD
    "hidden": 1,
    "idx": 3,
    "ignore_user_permissions": 0,
@@ -946,6 +1654,17 @@
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": "section_break_1",
+=======
+   "hidden": 0,
+   "idx": 1,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": null,
+>>>>>>> feat: updated customizations
    "label": "Late Order",
    "modified": "2018-04-09 08:28:38.791762",
    "modified_by": "cpurbaugh@sea-fire.com",
@@ -967,6 +1686,8 @@
    "search_index": 0,
    "translatable": 0,
    "unique": 0,
+<<<<<<< HEAD
+=======
    "width": null
   },
   {
@@ -990,9 +1711,10 @@
    "fieldname": "customer_support_notes",
    "fieldtype": "Text",
    "hidden": 0,
-   "idx": 7,
+   "idx": 5,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -1018,6 +1740,7 @@
    "search_index": 0,
    "translatable": 0,
    "unique": 0,
+>>>>>>> feat: updated customizations
    "width": null
   },
   {
@@ -1025,12 +1748,104 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
+   "allow_on_submit": 1,
+=======
    "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-04-02 12:57:35.178494",
+   "default": null,
+   "depends_on": null,
+   "description": "For adding notes that display in reports, but does not print.",
+=======
    "creation": "2018-04-02 12:57:34.093817",
+   "default": null,
+   "depends_on": null,
+   "description": null,
+>>>>>>> feat: updated customizations
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "customer_support_notes",
+   "fieldtype": "Text",
+   "hidden": 0,
+   "idx": 7,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "column_break_hold_section",
+   "label": "Customer Support Notes",
+   "modified": "2018-04-02 12:57:35.178494",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-customer_support_notes",
+=======
+   "fieldname": "column_break_hold_section",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 4,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "so_on_hold",
+   "label": "",
+   "modified": "2018-04-02 12:57:34.093817",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-column_break_hold_section",
+>>>>>>> feat: updated customizations
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+<<<<<<< HEAD
+   "print_hide": 1,
+=======
+   "print_hide": 0,
+>>>>>>> feat: updated customizations
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+<<<<<<< HEAD
+   "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2018-04-02 12:57:34.093817",
+=======
+   "creation": "2018-03-29 13:54:00.146252",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1038,6 +1853,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "column_break_hold_section",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1052,6 +1868,23 @@
    "modified": "2018-04-02 12:57:34.093817",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-column_break_hold_section",
+=======
+   "fieldname": "active_backorder",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 2,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "late_order",
+   "label": "Active Backorder",
+   "modified": "2018-03-29 13:54:00.146252",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-active_backorder",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1060,7 +1893,11 @@
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+<<<<<<< HEAD
    "print_hide": 0,
+=======
+   "print_hide": 1,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1076,12 +1913,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-29 13:54:00.146252",
+=======
+   "creation": "2018-03-26 09:41:32.223121",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1089,6 +1934,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "active_backorder",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1103,6 +1949,23 @@
    "modified": "2018-03-29 13:54:00.146252",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-active_backorder",
+=======
+   "fieldname": "pes_email_alert",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 176,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "email_alert",
+   "label": "pes email alert",
+   "modified": "2018-03-26 09:41:32.223121",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-pes_email_alert",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1110,8 +1973,13 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
+<<<<<<< HEAD
    "precision": "",
    "print_hide": 1,
+=======
+   "precision": null,
+   "print_hide": 0,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1132,7 +2000,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 09:41:32.223121",
+=======
+   "creation": "2018-03-26 09:41:31.268270",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1140,6 +2012,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "pes_email_alert",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1154,6 +2027,23 @@
    "modified": "2018-03-26 09:41:32.223121",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-pes_email_alert",
+=======
+   "fieldname": "email_alert",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 175,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "update_auto_repeat_reference",
+   "label": "Email Alert",
+   "modified": "2018-03-26 09:41:31.268270",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-email_alert",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1183,7 +2073,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 09:41:31.268270",
+=======
+   "creation": "2018-03-26 09:41:27.332642",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1191,6 +2085,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "email_alert",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -1205,13 +2100,34 @@
    "modified": "2018-03-26 09:41:31.268270",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-email_alert",
+=======
+   "fieldname": "eng_email_alert",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 177,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "pes_email_alert",
+   "label": "eng email alert",
+   "modified": "2018-03-26 09:41:27.332642",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-eng_email_alert",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "permlevel": 3,
+=======
+   "permlevel": 0,
+>>>>>>> feat: updated customizations
    "precision": null,
    "print_hide": 0,
    "print_hide_if_no_value": 0,
@@ -1234,7 +2150,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 09:41:27.332642",
+=======
+   "creation": "2018-03-26 09:41:22.270298",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1242,6 +2162,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "eng_email_alert",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1256,6 +2177,23 @@
    "modified": "2018-03-26 09:41:27.332642",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-eng_email_alert",
+=======
+   "fieldname": "por_email_alert",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 179,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "ele_email_alert",
+   "label": "por email alert",
+   "modified": "2018-03-26 09:41:22.270298",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-por_email_alert",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1285,7 +2223,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 09:41:22.270298",
+=======
+   "creation": "2018-03-26 09:41:16.386689",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1293,6 +2235,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "por_email_alert",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1307,6 +2250,23 @@
    "modified": "2018-03-26 09:41:22.270298",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-por_email_alert",
+=======
+   "fieldname": "ele_email_alert",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 178,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "eng_email_alert",
+   "label": "ele email alert",
+   "modified": "2018-03-26 09:41:16.386689",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-ele_email_alert",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1331,12 +2291,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2018-03-26 09:41:16.386689",
+=======
+   "creation": "2016-07-18 15:46:03.949780",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1344,6 +2312,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ele_email_alert",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1361,11 +2330,35 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "delivery_method",
+   "fieldtype": "Link",
+   "hidden": 0,
+   "idx": 53,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "shipping_information",
+   "label": "Delivery Method",
+   "modified": "2018-02-23 12:57:17.402437",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-delivery_method",
+   "no_copy": 0,
+   "options": "Delivery Method",
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
+<<<<<<< HEAD
    "precision": null,
+=======
+   "precision": "",
+>>>>>>> feat: updated customizations
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
@@ -1382,12 +2375,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2016-07-18 15:46:03.949780",
+=======
+   "creation": "2017-10-10 13:07:35.793387",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1395,6 +2396,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "delivery_method",
    "fieldtype": "Link",
    "hidden": 0,
@@ -1412,6 +2414,26 @@
    "no_copy": 0,
    "options": "Delivery Method",
    "owner": "Administrator",
+=======
+   "fieldname": "so_on_hold",
+   "fieldtype": "Check",
+   "hidden": 1,
+   "idx": 3,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "active_backorder",
+   "label": "SO on hold",
+   "modified": "2017-10-10 13:07:35.793387",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-so_on_hold",
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -1433,12 +2455,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-10-10 13:07:35.793387",
+=======
+   "creation": "2017-07-11 08:12:52.055749",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1446,6 +2476,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "so_on_hold",
    "fieldtype": "Check",
    "hidden": 1,
@@ -1463,6 +2494,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "batch_numbers_required",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 183,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "third_party_verification_date",
+   "label": "Batch Numbers Required",
+   "modified": "2017-07-11 08:12:52.055749",
+   "modified_by": "Administrator",
+   "name": "Sales Order-batch_numbers_required",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -1471,7 +2522,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -1489,7 +2544,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-07-11 08:12:52.055749",
+=======
+   "creation": "2017-07-11 08:12:47.938907",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1497,6 +2556,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "batch_numbers_required",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1511,6 +2571,23 @@
    "modified": "2017-07-11 08:12:52.055749",
    "modified_by": "Administrator",
    "name": "Sales Order-batch_numbers_required",
+=======
+   "fieldname": "serial_numbers_required",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 180,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "por_email_alert",
+   "label": "Control Head S/Ns Required",
+   "modified": "2017-07-11 08:12:47.938907",
+   "modified_by": "Administrator",
+   "name": "Sales Order-serial_numbers_required",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1535,12 +2612,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-07-11 08:12:47.938907",
+=======
+   "creation": "2017-07-11 08:12:43.428516",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1548,6 +2633,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "serial_numbers_required",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1562,6 +2648,23 @@
    "modified": "2017-07-11 08:12:47.938907",
    "modified_by": "Administrator",
    "name": "Sales Order-serial_numbers_required",
+=======
+   "fieldname": "cylinder_traceability_required",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 64,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "cof",
+   "label": "Cylinder Traceability: provide each cylinder PO / batch# / label serial#",
+   "modified": "2017-07-11 08:12:43.428516",
+   "modified_by": "Administrator",
+   "name": "Sales Order-cylinder_traceability_required",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1586,19 +2689,31 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-07-11 08:12:43.428516",
    "default": null,
    "depends_on": null,
    "description": null,
+=======
+   "creation": "2017-04-30 15:43:54.580946",
+   "default": null,
+   "depends_on": null,
+   "description": "Number from QuickBooks",
+>>>>>>> feat: updated customizations
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "cylinder_traceability_required",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1613,6 +2728,23 @@
    "modified": "2017-07-11 08:12:43.428516",
    "modified_by": "Administrator",
    "name": "Sales Order-cylinder_traceability_required",
+=======
+   "fieldname": "old_sales_order_number",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "idx": 14,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "printed_by_portable_systems",
+   "label": "Old Sales Order Number",
+   "modified": "2017-06-13 15:34:34.878439",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-old_sales_order_number",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -1642,14 +2774,22 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 15:43:54.580946",
    "default": null,
    "depends_on": null,
    "description": "Number from QuickBooks",
+=======
+   "creation": "2017-06-13 15:23:24.257112",
+   "default": null,
+   "depends_on": "eval:doc.docstatus==1",
+   "description": null,
+>>>>>>> feat: updated customizations
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "old_sales_order_number",
    "fieldtype": "Data",
    "hidden": 0,
@@ -1667,12 +2807,36 @@
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
+=======
+   "fieldname": "printing",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 8,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "sales_order_workflow_state",
+   "label": "Printing",
+   "modified": "2017-06-13 15:34:24.219446",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-printing",
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+<<<<<<< HEAD
    "print_hide": 0,
+=======
+   "print_hide": 1,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1688,19 +2852,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-06-13 15:23:24.257112",
    "default": null,
    "depends_on": "eval:doc.docstatus==1",
+=======
+   "creation": "2017-06-13 15:27:13.267694",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "printing",
    "fieldtype": "Section Break",
    "hidden": 1,
@@ -1715,6 +2890,23 @@
    "modified": "2017-06-13 15:34:24.219446",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-printing",
+=======
+   "fieldname": "printed_by_preengineered_systems",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 9,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "printing",
+   "label": "Printed By PreEngineered Systems",
+   "modified": "2017-06-13 15:34:09.476387",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-printed_by_preengineered_systems",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1723,7 +2915,11 @@
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+<<<<<<< HEAD
    "print_hide": 1,
+=======
+   "print_hide": 0,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1744,7 +2940,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-06-13 15:27:13.267694",
+=======
+   "creation": "2017-06-13 15:27:15.784030",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1752,6 +2952,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "printed_by_preengineered_systems",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1766,49 +2967,14 @@
    "modified": "2017-06-13 15:34:09.476387",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-printed_by_preengineered_systems",
-   "no_copy": 0,
-   "options": null,
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 0,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "allow_on_submit": 1,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2017-06-13 15:27:15.784030",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Order",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
+=======
    "fieldname": "printed_by_engineered_systems",
    "fieldtype": "Check",
    "hidden": 0,
-   "idx": 12,
+   "idx": 10,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -1817,6 +2983,7 @@
    "modified": "2017-06-13 15:34:02.664124",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-printed_by_engineered_systems",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1846,7 +3013,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
+   "creation": "2017-06-13 15:27:15.784030",
+=======
    "creation": "2017-06-13 15:27:19.808961",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1854,6 +3025,78 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
+   "fieldname": "printed_by_engineered_systems",
+=======
+   "fieldname": "printed_by_electronic_systems",
+>>>>>>> feat: updated customizations
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 12,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+<<<<<<< HEAD
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "printed_by_preengineered_systems",
+   "label": "Printed By Engineered Systems",
+   "modified": "2017-06-13 15:34:02.664124",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-printed_by_engineered_systems",
+=======
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "cbprinting",
+   "label": "Printed by Electronic Systems",
+   "modified": "2017-06-13 15:33:55.875741",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-printed_by_electronic_systems",
+>>>>>>> feat: updated customizations
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": "",
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 0,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_on_submit": 1,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+<<<<<<< HEAD
+   "creation": "2017-06-13 15:27:19.808961",
+=======
+   "creation": "2017-06-13 15:27:22.313791",
+>>>>>>> feat: updated customizations
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "printed_by_electronic_systems",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1868,6 +3111,23 @@
    "modified": "2017-06-13 15:33:55.875741",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-printed_by_electronic_systems",
+=======
+   "fieldname": "printed_by_portable_systems",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 13,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "printed_by_electronic_systems",
+   "label": "Printed by Portable Systems",
+   "modified": "2017-06-13 15:33:50.085712",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-printed_by_portable_systems",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1892,12 +3152,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-06-13 15:27:22.313791",
+=======
+   "creation": "2017-06-13 15:27:18.885933",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1905,6 +3173,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "printed_by_portable_systems",
    "fieldtype": "Check",
    "hidden": 0,
@@ -1919,6 +3188,23 @@
    "modified": "2017-06-13 15:33:50.085712",
    "modified_by": "cpurbaugh@sea-fire.com",
    "name": "Sales Order-printed_by_portable_systems",
+=======
+   "fieldname": "cbprinting",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 11,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "printed_by_engineered_systems",
+   "label": "",
+   "modified": "2017-06-13 15:32:49.491176",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-cbprinting",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
@@ -1927,7 +3213,11 @@
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+<<<<<<< HEAD
    "print_hide": 0,
+=======
+   "print_hide": 1,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1948,7 +3238,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-06-13 15:27:18.885933",
+=======
+   "creation": "2017-04-30 17:50:40.135481",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -1956,6 +3250,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "cbprinting",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -1973,12 +3268,36 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "scheduled_ship_date",
+   "fieldtype": "Date",
+   "hidden": 1,
+   "idx": 30,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "delivery_date",
+   "label": "Scheduled Ship Date",
+   "modified": "2017-04-30 17:50:40.135481",
+   "modified_by": "Administrator",
+   "name": "Sales Order-scheduled_ship_date",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
    "precision": "",
+<<<<<<< HEAD
    "print_hide": 1,
+=======
+   "print_hide": 0,
+>>>>>>> feat: updated customizations
    "print_hide_if_no_value": 0,
    "print_width": null,
    "read_only": 0,
@@ -1994,12 +3313,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:50:40.135481",
+=======
+   "creation": "2017-04-30 17:23:11.646266",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2007,6 +3334,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "scheduled_ship_date",
    "fieldtype": "Date",
    "hidden": 1,
@@ -2021,6 +3349,23 @@
    "modified": "2017-04-30 17:50:40.135481",
    "modified_by": "Administrator",
    "name": "Sales Order-scheduled_ship_date",
+=======
+   "fieldname": "manager_verification",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 186,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "qacb3",
+   "label": "Manager Verification",
+   "modified": "2017-04-30 17:23:11.646266",
+   "modified_by": "Administrator",
+   "name": "Sales Order-manager_verification",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2032,7 +3377,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2045,12 +3394,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:11.646266",
+=======
+   "creation": "2017-04-30 17:23:10.807219",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2058,6 +3415,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "manager_verification",
    "fieldtype": "Check",
    "hidden": 0,
@@ -2072,6 +3430,23 @@
    "modified": "2017-04-30 17:23:11.646266",
    "modified_by": "Administrator",
    "name": "Sales Order-manager_verification",
+=======
+   "fieldname": "qacb3",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 185,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "batch_numbers_required",
+   "label": "",
+   "modified": "2017-04-30 17:23:10.807219",
+   "modified_by": "Administrator",
+   "name": "Sales Order-qacb3",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2096,12 +3471,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:10.807219",
+=======
+   "creation": "2017-04-30 17:23:09.488725",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2109,6 +3492,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "qacb3",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -2123,6 +3507,23 @@
    "modified": "2017-04-30 17:23:10.807219",
    "modified_by": "Administrator",
    "name": "Sales Order-qacb3",
+=======
+   "fieldname": "third_party_verification",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 182,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "qacb2",
+   "label": "Third party verification (Pics)",
+   "modified": "2017-04-30 17:23:09.488725",
+   "modified_by": "Administrator",
+   "name": "Sales Order-third_party_verification",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2134,7 +3535,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2147,12 +3552,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:09.488725",
+=======
+   "creation": "2017-04-30 17:23:08.715949",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2160,6 +3573,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "third_party_verification",
    "fieldtype": "Check",
    "hidden": 0,
@@ -2174,6 +3588,23 @@
    "modified": "2017-04-30 17:23:09.488725",
    "modified_by": "Administrator",
    "name": "Sales Order-third_party_verification",
+=======
+   "fieldname": "qacb2",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 181,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "serial_numbers_required",
+   "label": "",
+   "modified": "2017-04-30 17:23:08.715949",
+   "modified_by": "Administrator",
+   "name": "Sales Order-qacb2",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2198,12 +3629,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:08.715949",
+=======
+   "creation": "2017-04-30 17:23:07.331722",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2211,6 +3650,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "qacb2",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -2225,6 +3665,23 @@
    "modified": "2017-04-30 17:23:08.715949",
    "modified_by": "Administrator",
    "name": "Sales Order-qacb2",
+=======
+   "fieldname": "return_to_qa_for_doc",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 66,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "qacb1",
+   "label": "Return to QA for DoC",
+   "modified": "2017-04-30 17:23:07.331722",
+   "modified_by": "Administrator",
+   "name": "Sales Order-return_to_qa_for_doc",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2236,7 +3693,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2249,12 +3710,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:07.331722",
+=======
+   "creation": "2017-04-30 17:23:06.521253",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2262,6 +3731,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "return_to_qa_for_doc",
    "fieldtype": "Check",
    "hidden": 0,
@@ -2276,6 +3746,23 @@
    "modified": "2017-04-30 17:23:07.331722",
    "modified_by": "Administrator",
    "name": "Sales Order-return_to_qa_for_doc",
+=======
+   "fieldname": "qacb1",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 65,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "cylinder_traceability_required",
+   "label": "",
+   "modified": "2017-04-30 17:23:06.521253",
+   "modified_by": "Administrator",
+   "name": "Sales Order-qacb1",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2300,12 +3787,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:06.521253",
+=======
+   "creation": "2017-04-30 17:23:04.962423",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2313,6 +3808,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "qacb1",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -2327,6 +3823,23 @@
    "modified": "2017-04-30 17:23:06.521253",
    "modified_by": "Administrator",
    "name": "Sales Order-qacb1",
+=======
+   "fieldname": "cert_reqd",
+   "fieldtype": "Check",
+   "hidden": 0,
+   "idx": 60,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "quality_assurance",
+   "label": "Cert Reqd",
+   "modified": "2017-04-30 17:23:04.962423",
+   "modified_by": "Administrator",
+   "name": "Sales Order-cert_reqd",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2338,7 +3851,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2351,11 +3868,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-30 17:23:04.962423",
    "default": null,
    "depends_on": null,
@@ -2380,6 +3902,33 @@
    "name": "Sales Order-cert_reqd",
    "no_copy": 0,
    "options": null,
+=======
+   "creation": "2017-04-30 14:05:57.692813",
+   "default": null,
+   "depends_on": null,
+   "description": "This is an old field, made obsolete by V11 update.",
+   "docstatus": 0,
+   "dt": "Sales Order",
+   "fetch_from": "Sales Order",
+   "fetch_if_empty": 0,
+   "fieldname": "payment_terms1",
+   "fieldtype": "Link",
+   "hidden": 0,
+   "idx": 24,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "order_type",
+   "label": "Payment Terms",
+   "modified": "2017-04-30 14:05:57.692813",
+   "modified_by": "Administrator",
+   "name": "Sales Order-payment_terms1",
+   "no_copy": 0,
+   "options": "Payment Terms",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2389,7 +3938,11 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
+<<<<<<< HEAD
    "read_only": 0,
+=======
+   "read_only": 1,
+>>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -2404,17 +3957,27 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
+<<<<<<< HEAD
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
    "creation": "2017-04-30 14:05:57.692813",
    "default": null,
    "depends_on": null,
+=======
+   "collapsible": 1,
+   "collapsible_depends_on": "",
+   "columns": 0,
+   "creation": "2016-06-10 10:57:52.272917",
+   "default": null,
+   "depends_on": "",
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "payment_terms1",
    "fieldtype": "Link",
    "hidden": 1,
@@ -2432,6 +3995,26 @@
    "no_copy": 0,
    "options": "Payment Terms",
    "owner": "Administrator",
+=======
+   "fieldname": "quality_assurance",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 59,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "early_dispatch_eligible",
+   "label": "Quality Assurance",
+   "modified": "2017-04-27 12:48:09.196468",
+   "modified_by": "Administrator",
+   "name": "Sales Order-quality_assurance",
+   "no_copy": 0,
+   "options": null,
+   "owner": "cpurbaugh@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -2456,16 +4039,25 @@
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 1,
+<<<<<<< HEAD
    "collapsible_depends_on": "",
    "columns": 0,
    "creation": "2016-06-10 10:57:52.272917",
    "default": null,
    "depends_on": "",
+=======
+   "collapsible_depends_on": "eval:doc.internal_codes",
+   "columns": 0,
+   "creation": "2017-04-27 12:10:27.829591",
+   "default": null,
+   "depends_on": null,
+>>>>>>> feat: updated customizations
    "description": null,
    "docstatus": 0,
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "quality_assurance",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -2483,6 +4075,26 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
+=======
+   "fieldname": "internal_codes_section",
+   "fieldtype": "Section Break",
+   "hidden": 0,
+   "idx": 83,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "items",
+   "label": "Internal Codes",
+   "modified": "2017-04-27 12:46:46.117589",
+   "modified_by": "Administrator",
+   "name": "Sales Order-internal_codes_section",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -2506,10 +4118,17 @@
    "_user_tags": null,
    "allow_on_submit": 0,
    "bold": 0,
+<<<<<<< HEAD
    "collapsible": 1,
    "collapsible_depends_on": "eval:doc.internal_codes",
    "columns": 0,
    "creation": "2017-04-27 12:10:27.829591",
+=======
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
+   "creation": "2017-04-26 14:43:47.719729",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2517,6 +4136,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "internal_codes_section",
    "fieldtype": "Section Break",
    "hidden": 0,
@@ -2531,6 +4151,23 @@
    "modified": "2017-04-27 12:46:46.117589",
    "modified_by": "Administrator",
    "name": "Sales Order-internal_codes_section",
+=======
+   "fieldname": "notes1",
+   "fieldtype": "Text Editor",
+   "hidden": 0,
+   "idx": 135,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "more_info",
+   "label": "Notes",
+   "modified": "2017-04-26 14:43:47.719729",
+   "modified_by": "Administrator",
+   "name": "Sales Order-notes1",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2555,12 +4192,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-26 14:43:47.719729",
+=======
+   "creation": "2017-04-26 12:24:34.828025",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2568,6 +4213,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "notes1",
    "fieldtype": "Text Editor",
    "hidden": 0,
@@ -2584,6 +4230,25 @@
    "name": "Sales Order-notes1",
    "no_copy": 0,
    "options": null,
+=======
+   "fieldname": "sales_order_workflow_state",
+   "fieldtype": "Link",
+   "hidden": 1,
+   "idx": 7,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "production_notes",
+   "label": "Sales Order Workflow State",
+   "modified": "2017-04-26 12:24:34.828025",
+   "modified_by": "Administrator",
+   "name": "Sales Order-sales_order_workflow_state",
+   "no_copy": 0,
+   "options": "Workflow State",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2606,12 +4271,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
+=======
+   "allow_on_submit": 0,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-26 12:24:34.828025",
+=======
+   "creation": "2017-04-21 17:11:54.786411",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2619,6 +4292,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "sales_order_workflow_state",
    "fieldtype": "Link",
    "hidden": 1,
@@ -2635,6 +4309,25 @@
    "name": "Sales Order-sales_order_workflow_state",
    "no_copy": 0,
    "options": "Workflow State",
+=======
+   "fieldname": "internal_codes",
+   "fieldtype": "Table",
+   "hidden": 0,
+   "idx": 84,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "internal_codes_section",
+   "label": "Internal Codes",
+   "modified": "2017-04-21 17:11:54.786411",
+   "modified_by": "Administrator",
+   "name": "Sales Order-internal_codes",
+   "no_copy": 0,
+   "options": "Internal Code Table",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2662,7 +4355,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2017-04-21 17:11:54.786411",
+=======
+   "creation": "2016-07-20 09:20:03.332858",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2670,6 +4367,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "internal_codes",
    "fieldtype": "Table",
    "hidden": 0,
@@ -2686,6 +4384,25 @@
    "name": "Sales Order-internal_codes",
    "no_copy": 0,
    "options": "Internal Code Table",
+=======
+   "fieldname": "early_dispatch_eligible",
+   "fieldtype": "Select",
+   "hidden": 0,
+   "idx": 58,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "fob",
+   "label": "Early Dispatch",
+   "modified": "2016-09-07 16:13:37.124550",
+   "modified_by": "Administrator",
+   "name": "Sales Order-early_dispatch_eligible",
+   "no_copy": 0,
+   "options": "No\nYes",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2713,7 +4430,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2016-07-20 09:20:03.332858",
+=======
+   "creation": "2016-07-20 09:10:00.992974",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2721,6 +4442,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "early_dispatch_eligible",
    "fieldtype": "Select",
    "hidden": 0,
@@ -2737,6 +4459,25 @@
    "name": "Sales Order-early_dispatch_eligible",
    "no_copy": 0,
    "options": "No\nYes",
+=======
+   "fieldname": "fob",
+   "fieldtype": "Select",
+   "hidden": 0,
+   "idx": 57,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "ship",
+   "label": "FOB",
+   "modified": "2016-09-07 16:13:36.039222",
+   "modified_by": "Administrator",
+   "name": "Sales Order-fob",
+   "no_copy": 0,
+   "options": "\nOrigin\nDestination",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2764,7 +4505,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2016-07-20 09:10:00.992974",
+=======
+   "creation": "2016-07-20 10:00:07.857562",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2772,6 +4517,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "fob",
    "fieldtype": "Select",
    "hidden": 0,
@@ -2788,6 +4534,25 @@
    "name": "Sales Order-fob",
    "no_copy": 0,
    "options": "\nOrigin\nDestination",
+=======
+   "fieldname": "ship",
+   "fieldtype": "Column Break",
+   "hidden": 0,
+   "idx": 56,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "account_no",
+   "label": "",
+   "modified": "2016-09-07 16:13:34.975783",
+   "modified_by": "Administrator",
+   "name": "Sales Order-ship",
+   "no_copy": 0,
+   "options": null,
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2815,7 +4580,11 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2016-07-20 10:00:07.857562",
+=======
+   "creation": "2016-07-13 14:32:36.199097",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2823,6 +4592,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "ship",
    "fieldtype": "Column Break",
    "hidden": 0,
@@ -2837,6 +4607,23 @@
    "modified": "2016-09-07 16:13:34.975783",
    "modified_by": "Administrator",
    "name": "Sales Order-ship",
+=======
+   "fieldname": "account_no",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 55,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "freight_terms",
+   "label": "Account No",
+   "modified": "2016-09-07 16:13:33.870399",
+   "modified_by": "Administrator",
+   "name": "Sales Order-account_no",
+>>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "Administrator",
@@ -2861,12 +4648,20 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 0,
+=======
+   "allow_on_submit": 1,
+>>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+<<<<<<< HEAD
    "creation": "2016-07-13 14:32:36.199097",
+=======
+   "creation": "2016-07-20 09:10:05.939153",
+>>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -2874,6 +4669,7 @@
    "dt": "Sales Order",
    "fetch_from": null,
    "fetch_if_empty": 0,
+<<<<<<< HEAD
    "fieldname": "account_no",
    "fieldtype": "Data",
    "hidden": 0,
@@ -2890,6 +4686,25 @@
    "name": "Sales Order-account_no",
    "no_copy": 0,
    "options": null,
+=======
+   "fieldname": "freight_terms",
+   "fieldtype": "Select",
+   "hidden": 0,
+   "idx": 54,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "delivery_method",
+   "label": "Freight Terms",
+   "modified": "2016-09-07 16:13:32.267814",
+   "modified_by": "Administrator",
+   "name": "Sales Order-freight_terms",
+   "no_copy": 0,
+   "options": "\nFreight Collect\nPrepaid\nPrepay & Add\nThird Party\nEx-Works\nConsignee",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -2912,6 +4727,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
@@ -2963,6 +4779,8 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+=======
+>>>>>>> feat: updated customizations
    "allow_on_submit": 0,
    "bold": 0,
    "collapsible": 1,
@@ -2979,9 +4797,16 @@
    "fieldname": "shipping_information",
    "fieldtype": "Section Break",
    "hidden": 0,
+<<<<<<< HEAD
    "idx": 55,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+=======
+   "idx": 52,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_filter": 0,
+>>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -3010,7 +4835,243 @@
    "width": null
   }
  ],
+<<<<<<< HEAD
  "custom_perms": [],
+=======
+ "custom_perms": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 0,
+   "cancel": 0,
+   "create": 0,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 0,
+   "docstatus": 0,
+   "email": 1,
+   "export": 0,
+   "idx": 4,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.268793",
+   "modified_by": "Administrator",
+   "name": "33e0c3625c",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 1,
+   "read": 1,
+   "report": 0,
+   "role": "Accounts User",
+   "set_user_permissions": 0,
+   "share": 0,
+   "submit": 0,
+   "write": 0
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 0,
+   "cancel": 0,
+   "create": 0,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 0,
+   "docstatus": 0,
+   "email": 0,
+   "export": 0,
+   "idx": 5,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.290524",
+   "modified_by": "Administrator",
+   "name": "207f2e2481",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Stock User",
+   "set_user_permissions": 0,
+   "share": 0,
+   "submit": 0,
+   "write": 0
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 0,
+   "cancel": 0,
+   "create": 1,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 1,
+   "docstatus": 0,
+   "email": 1,
+   "export": 0,
+   "idx": 3,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.300423",
+   "modified_by": "Administrator",
+   "name": "4781a7a263",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Maintenance User",
+   "set_user_permissions": 0,
+   "share": 1,
+   "submit": 0,
+   "write": 1
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 1,
+   "cancel": 1,
+   "create": 1,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 1,
+   "docstatus": 0,
+   "email": 1,
+   "export": 0,
+   "idx": 1,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.308574",
+   "modified_by": "Administrator",
+   "name": "e47e2d02b1",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Sales User",
+   "set_user_permissions": 0,
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 0,
+   "cancel": 0,
+   "create": 0,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 0,
+   "docstatus": 0,
+   "email": 0,
+   "export": 0,
+   "idx": 6,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.316452",
+   "modified_by": "Administrator",
+   "name": "b9ddbb7498",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 1,
+   "print": 0,
+   "read": 1,
+   "report": 0,
+   "role": "Sales Manager",
+   "set_user_permissions": 0,
+   "share": 0,
+   "submit": 0,
+   "write": 1
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 1,
+   "cancel": 1,
+   "create": 1,
+   "creation": "2013-06-18 12:39:59",
+   "delete": 1,
+   "docstatus": 0,
+   "email": 1,
+   "export": 1,
+   "idx": 2,
+   "if_owner": 0,
+   "import": 1,
+   "modified": "2019-04-15 11:08:21.324335",
+   "modified_by": "Administrator",
+   "name": "03364e2563",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Sales Manager",
+   "set_user_permissions": 1,
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "amend": 0,
+   "cancel": 0,
+   "create": 0,
+   "creation": "2019-04-15 11:08:21.336594",
+   "delete": 0,
+   "docstatus": 0,
+   "email": 0,
+   "export": 1,
+   "idx": 0,
+   "if_owner": 0,
+   "import": 0,
+   "modified": "2019-04-15 11:08:21.336594",
+   "modified_by": "Administrator",
+   "name": "b41b77a1d1",
+   "owner": "Administrator",
+   "parent": "Sales Order",
+   "parentfield": "permissions",
+   "parenttype": "DocType",
+   "permlevel": 0,
+   "print": 0,
+   "read": 1,
+   "report": 1,
+   "role": "Manufacturing User",
+   "set_user_permissions": 0,
+   "share": 0,
+   "submit": 0,
+   "write": 1
+  }
+ ],
+>>>>>>> feat: updated customizations
  "doctype": "Sales Order",
  "property_setters": [
   {
@@ -3018,6 +5079,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-07-22 13:51:53.372360",
    "default_value": null,
    "doc_type": "Sales Order",
@@ -3028,11 +5090,73 @@
    "modified": "2019-07-22 13:51:53.372360",
    "modified_by": "Administrator",
    "name": "Sales Order-scan_barcode-hidden",
+=======
+   "creation": "2019-06-20 08:18:44.806605",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocType",
+   "field_name": null,
+   "idx": 0,
+   "modified": "2019-06-20 08:18:44.806605",
+   "modified_by": "Administrator",
+   "name": "Sales Order-read_only_onload",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "hidden",
+=======
+   "property": "read_only_onload",
+   "property_type": "Check",
+   "value": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2019-05-16 15:29:01.482171",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "payment_schedule",
+   "idx": 0,
+   "modified": "2019-05-16 15:29:01.482171",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-payment_schedule-print_hide",
+   "owner": "sellisjr@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "print_hide",
+   "property_type": "Check",
+   "value": "1"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2019-05-16 15:29:01.289240",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "due_date",
+   "idx": 0,
+   "modified": "2019-05-16 15:29:01.289240",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-due_date-print_hide",
+   "owner": "sellisjr@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "print_hide",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "0"
   },
@@ -3041,6 +5165,7 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-07-09 19:02:04.408173",
    "default_value": null,
    "doc_type": "Sales Order",
@@ -3051,42 +5176,79 @@
    "modified": "2019-07-09 19:02:04.408173",
    "modified_by": "Administrator",
    "name": "Sales Order-default_print_format",
+=======
+   "creation": "2019-04-25 13:39:30.990125",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "set_warehouse",
+   "idx": 0,
+   "modified": "2019-04-25 13:39:30.990125",
+   "modified_by": "Administrator",
+   "name": "Sales Order-set_warehouse-default",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "default_print_format",
    "property_type": "Data",
    "value": "New SO Print Format"
+=======
+   "property": "default",
+   "property_type": "Text",
+   "value": "Shipping - MC"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-06-15 13:38:51.095518",
+=======
+   "creation": "2019-04-23 10:53:47.312388",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "taxes_and_charges",
    "idx": 0,
    "modified": "2019-06-15 13:38:51.095518",
    "modified_by": "Administrator",
    "name": "Sales Order-taxes_and_charges-reqd",
+=======
+   "field_name": "scan_barcode",
+   "idx": 0,
+   "modified": "2019-04-23 10:53:47.312388",
+   "modified_by": "Administrator",
+   "name": "Sales Order-scan_barcode-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "reqd",
    "property_type": "Check",
    "value": "1"
+=======
+   "property": "hidden",
+   "property_type": "Check",
+   "value": "0"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-06-15 13:38:51.054410",
    "default_value": null,
    "doc_type": "Sales Order",
@@ -3097,58 +5259,180 @@
    "modified": "2019-06-15 13:38:51.054410",
    "modified_by": "Administrator",
    "name": "Sales Order-read_only_onload",
+=======
+   "creation": "2019-03-11 13:08:28.586923",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "more_info",
+   "idx": 0,
+   "modified": "2019-03-11 13:08:28.586923",
+   "modified_by": "Administrator",
+   "name": "Sales Order-more_info-collapsible",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "read_only_onload",
    "property_type": "Check",
    "value": null
+=======
+   "property": "collapsible",
+   "property_type": "Check",
+   "value": "0"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-05-17 17:20:47.109993",
+=======
+   "creation": "2019-03-11 13:08:28.440328",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "payment_schedule",
    "idx": 0,
    "modified": "2019-05-17 17:20:47.109993",
    "modified_by": "Administrator",
    "name": "Sales Order-payment_schedule-print_hide",
+=======
+   "field_name": "contact_info",
+   "idx": 0,
+   "modified": "2019-03-11 13:08:28.440328",
+   "modified_by": "Administrator",
+   "name": "Sales Order-contact_info-collapsible",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "print_hide",
    "property_type": "Check",
    "value": "1"
+=======
+   "property": "collapsible",
+   "property_type": "Check",
+   "value": "0"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-05-17 17:20:46.928717",
+=======
+   "creation": "2019-01-17 09:08:57.318947",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "due_date",
    "idx": 0,
    "modified": "2019-05-17 17:20:46.928717",
    "modified_by": "Administrator",
    "name": "Sales Order-due_date-print_hide",
+=======
+   "field_name": "selling_price_list",
+   "idx": 0,
+   "modified": "2019-01-17 09:08:57.318947",
+   "modified_by": "Administrator",
+   "name": "Sales Order-selling_price_list-default",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "print_hide",
    "property_type": "Check",
+=======
+   "property": "default",
+   "property_type": "Text",
+   "value": ""
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2018-06-08 09:31:55.323112",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "po_no",
+   "idx": 0,
+   "modified": "2018-06-08 09:31:55.323112",
+   "modified_by": "LJames@sea-fire.com",
+   "name": "Sales Order-po_no-width",
+   "owner": "LJames@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "width",
+   "property_type": null,
+   "value": "166"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2017-11-13 09:45:17.330153",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "selling_price_list",
+   "idx": 0,
+   "modified": "2017-11-13 09:45:17.330153",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-selling_price_list-width",
+   "owner": "cpurbaugh@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "width",
+   "property_type": null,
+   "value": "208"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2017-11-10 15:11:06.432373",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "ignore_pricing_rule",
+   "idx": 0,
+   "modified": "2017-11-10 15:11:06.432373",
+   "modified_by": "cpurbaugh@sea-fire.com",
+   "name": "Sales Order-ignore_pricing_rule-default",
+   "owner": "cpurbaugh@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "default",
+   "property_type": "Text",
+>>>>>>> feat: updated customizations
    "value": "0"
   },
   {
@@ -3156,20 +5440,33 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-05-01 17:53:55.620496",
+=======
+   "creation": "2017-06-22 09:32:57.344872",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "in_words",
    "idx": 0,
    "modified": "2019-05-01 17:53:55.620496",
    "modified_by": "Administrator",
    "name": "Sales Order-in_words-print_hide",
+=======
+   "field_name": "order_type",
+   "idx": 0,
+   "modified": "2017-06-22 09:32:57.344872",
+   "modified_by": "Administrator",
+   "name": "Sales Order-order_type-options",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "print_hide",
    "property_type": "Check",
    "value": "1"
@@ -3242,27 +5539,48 @@
    "property": "hidden",
    "property_type": "Check",
    "value": "1"
+=======
+   "property": "options",
+   "property_type": "Text",
+   "value": "\nSales\nMaintenance\n"
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-05-01 17:53:52.598956",
+=======
+   "creation": "2017-06-22 09:15:40.815438",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "base_rounded_total",
    "idx": 0,
    "modified": "2019-05-01 17:53:52.598956",
    "modified_by": "Administrator",
    "name": "Sales Order-base_rounded_total-print_hide",
+=======
+   "field_name": "po_no",
+   "idx": 0,
+   "modified": "2017-06-22 09:15:40.815438",
+   "modified_by": "Administrator",
+   "name": "Sales Order-po_no-reqd",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "print_hide",
+=======
+   "property": "reqd",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "1"
   },
@@ -3271,20 +5589,33 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-05-01 17:53:52.450387",
+=======
+   "creation": "2017-06-16 09:26:02.986894",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "base_rounded_total",
    "idx": 0,
    "modified": "2019-05-01 17:53:52.450387",
    "modified_by": "Administrator",
    "name": "Sales Order-base_rounded_total-hidden",
+=======
+   "field_name": "ignore_pricing_rule",
+   "idx": 0,
+   "modified": "2017-06-16 09:26:02.986894",
+   "modified_by": "Administrator",
+   "name": "Sales Order-ignore_pricing_rule-permlevel",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "hidden",
    "property_type": "Check",
    "value": "1"
@@ -3333,6 +5664,10 @@
    "parenttype": null,
    "property": "print_hide",
    "property_type": "Check",
+=======
+   "property": "permlevel",
+   "property_type": "Int",
+>>>>>>> feat: updated customizations
    "value": "0"
   },
   {
@@ -3340,11 +5675,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-30 15:29:52.871578",
+=======
+   "creation": "2017-05-18 09:08:27.513942",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "tax_id",
    "idx": 0,
    "modified": "2019-04-30 15:29:52.871578",
@@ -3424,6 +5764,18 @@
    "parentfield": null,
    "parenttype": null,
    "property": "hidden",
+=======
+   "field_name": "in_words",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:27.513942",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-in_words-print_hide",
+   "owner": "sellisjr@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "print_hide",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "1"
   },
@@ -3432,17 +5784,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-30 10:42:31.168773",
+=======
+   "creation": "2017-05-18 09:08:27.386800",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "auto_repeat",
    "idx": 0,
    "modified": "2019-04-30 10:42:31.168773",
    "modified_by": "Administrator",
    "name": "Sales Order-auto_repeat-hidden",
    "owner": "Administrator",
+=======
+   "field_name": "in_words",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:27.386800",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-in_words-hidden",
+   "owner": "sellisjr@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -3455,11 +5820,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-29 23:12:47.644165",
+=======
+   "creation": "2017-05-18 09:08:26.146317",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "rounding_adjustment",
    "idx": 0,
    "modified": "2019-04-29 23:12:47.644165",
@@ -3470,6 +5840,18 @@
    "parentfield": null,
    "parenttype": null,
    "property": "hidden",
+=======
+   "field_name": "rounded_total",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:26.146317",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-rounded_total-print_hide",
+   "owner": "sellisjr@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "print_hide",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "1"
   },
@@ -3478,17 +5860,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-29 23:09:28.585084",
+=======
+   "creation": "2017-05-18 09:08:26.019472",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "base_in_words",
    "idx": 0,
    "modified": "2019-04-29 23:09:28.585084",
    "modified_by": "Administrator",
    "name": "Sales Order-base_in_words-hidden",
    "owner": "Administrator",
+=======
+   "field_name": "rounded_total",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:26.019472",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-rounded_total-hidden",
+   "owner": "sellisjr@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -3501,11 +5896,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-29 23:09:28.580617",
+=======
+   "creation": "2017-05-18 09:08:25.889426",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "base_rounding_adjustment",
    "idx": 0,
    "modified": "2019-04-29 23:09:28.580617",
@@ -3516,6 +5916,18 @@
    "parentfield": null,
    "parenttype": null,
    "property": "hidden",
+=======
+   "field_name": "base_rounded_total",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:25.889426",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-base_rounded_total-print_hide",
+   "owner": "sellisjr@sea-fire.com",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "print_hide",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "1"
   },
@@ -3524,17 +5936,30 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-26 15:20:43.463859",
+=======
+   "creation": "2017-05-18 09:08:25.760851",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "company_address_display",
    "idx": 0,
    "modified": "2019-04-26 15:20:43.463859",
    "modified_by": "Administrator",
    "name": "Sales Order-company_address_display-hidden",
    "owner": "Administrator",
+=======
+   "field_name": "base_rounded_total",
+   "idx": 0,
+   "modified": "2017-05-18 09:08:25.760851",
+   "modified_by": "sellisjr@sea-fire.com",
+   "name": "Sales Order-base_rounded_total-hidden",
+   "owner": "sellisjr@sea-fire.com",
+>>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -3547,16 +5972,74 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-04-26 15:20:43.456610",
+=======
+   "creation": "2016-06-23 11:07:06.938038",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "company_address",
    "idx": 0,
    "modified": "2019-04-26 15:20:43.456610",
    "modified_by": "Administrator",
    "name": "Sales Order-company_address-hidden",
+=======
+   "field_name": "naming_series",
+   "idx": 0,
+   "modified": "2017-05-01 11:12:07.809433",
+   "modified_by": "Administrator",
+   "name": "Sales Order-naming_series-options",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "options",
+   "property_type": "Text",
+   "value": "2.#####\nL.#####\n19.####"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2016-08-01 10:59:50.272140",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "naming_series",
+   "idx": 0,
+   "modified": "2017-05-01 11:12:07.734394",
+   "modified_by": "Administrator",
+   "name": "Sales Order-naming_series-default",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "default",
+   "property_type": "Text",
+   "value": "2.#####"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2017-04-30 10:46:51.960932",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "section_break_48",
+   "idx": 0,
+   "modified": "2017-04-30 10:46:51.960932",
+   "modified_by": "Administrator",
+   "name": "Sales Order-section_break_48-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3570,20 +6053,33 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-03-11 13:08:28.586923",
+=======
+   "creation": "2017-04-30 10:04:30.403690",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "more_info",
    "idx": 0,
    "modified": "2019-03-11 13:08:28.586923",
    "modified_by": "Administrator",
    "name": "Sales Order-more_info-collapsible",
+=======
+   "field_name": "terms_section_break",
+   "idx": 0,
+   "modified": "2017-04-30 10:04:30.403690",
+   "modified_by": "Administrator",
+   "name": "Sales Order-terms_section_break-collapsible_depends_on",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "collapsible",
    "property_type": "Check",
    "value": "0"
@@ -3632,6 +6128,10 @@
    "parenttype": null,
    "property": "default",
    "property_type": "Text",
+=======
+   "property": "collapsible_depends_on",
+   "property_type": "Data",
+>>>>>>> feat: updated customizations
    "value": ""
   },
   {
@@ -3639,11 +6139,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2018-06-08 09:31:55.323112",
+=======
+   "creation": "2017-04-21 17:33:03.625162",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "po_no",
    "idx": 0,
    "modified": "2018-06-08 09:31:55.323112",
@@ -3741,11 +6246,22 @@
    "modified": "2017-06-22 09:15:40.815438",
    "modified_by": "Administrator",
    "name": "Sales Order-po_no-reqd",
+=======
+   "field_name": "base_grand_total",
+   "idx": 0,
+   "modified": "2017-04-21 17:33:03.625162",
+   "modified_by": "Administrator",
+   "name": "Sales Order-base_grand_total-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "reqd",
+=======
+   "property": "hidden",
+>>>>>>> feat: updated customizations
    "property_type": "Check",
    "value": "1"
   },
@@ -3754,39 +6270,69 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2017-06-16 09:26:02.986894",
+=======
+   "creation": "2017-04-18 11:32:24.291265",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "ignore_pricing_rule",
    "idx": 0,
    "modified": "2017-06-16 09:26:02.986894",
    "modified_by": "Administrator",
    "name": "Sales Order-ignore_pricing_rule-permlevel",
+=======
+   "field_name": "tc_name",
+   "idx": 0,
+   "modified": "2017-04-18 11:32:24.291265",
+   "modified_by": "Administrator",
+   "name": "Sales Order-tc_name-default",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
+<<<<<<< HEAD
    "property": "permlevel",
    "property_type": "Int",
    "value": "0"
+=======
+   "property": "default",
+   "property_type": "Text",
+   "value": ""
+>>>>>>> feat: updated customizations
   },
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2017-04-30 10:46:51.960932",
+=======
+   "creation": "2016-09-07 16:13:25.751409",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "section_break_48",
    "idx": 0,
    "modified": "2017-04-30 10:46:51.960932",
    "modified_by": "Administrator",
    "name": "Sales Order-section_break_48-hidden",
+=======
+   "field_name": "section_break_43",
+   "idx": 0,
+   "modified": "2016-09-07 16:13:25.751409",
+   "modified_by": "Administrator",
+   "name": "Sales Order-section_break_43-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3800,11 +6346,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2017-04-30 10:04:30.403690",
+=======
+   "creation": "2016-09-07 16:13:25.721078",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "terms_section_break",
    "idx": 0,
    "modified": "2017-04-30 10:04:30.403690",
@@ -3833,6 +6384,13 @@
    "modified": "2017-04-21 17:33:03.625162",
    "modified_by": "Administrator",
    "name": "Sales Order-base_grand_total-hidden",
+=======
+   "field_name": "section_break_40",
+   "idx": 0,
+   "modified": "2016-09-07 16:13:25.721078",
+   "modified_by": "Administrator",
+   "name": "Sales Order-section_break_40-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -3846,11 +6404,16 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2017-04-18 11:32:24.291265",
+=======
+   "creation": "2016-09-07 15:30:26.579534",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order",
    "docstatus": 0,
    "doctype_or_field": "DocField",
+<<<<<<< HEAD
    "field_name": "tc_name",
    "idx": 0,
    "modified": "2017-04-18 11:32:24.291265",
@@ -3879,6 +6442,13 @@
    "modified": "2016-09-07 16:13:25.751409",
    "modified_by": "Administrator",
    "name": "Sales Order-section_break_43-hidden",
+=======
+   "field_name": "taxes_section",
+   "idx": 0,
+   "modified": "2016-09-07 15:30:26.579534",
+   "modified_by": "Administrator",
+   "name": "Sales Order-taxes_section-hidden",
+>>>>>>> feat: updated customizations
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -4007,6 +6577,32 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
+=======
+   "creation": "2016-06-23 11:54:38.852858",
+   "default_value": null,
+   "doc_type": "Sales Order",
+   "docstatus": 0,
+   "doctype_or_field": "DocType",
+   "field_name": null,
+   "idx": 0,
+   "modified": "2016-06-23 11:54:38.852858",
+   "modified_by": "Administrator",
+   "name": "Sales Order-default_print_format",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "default_print_format",
+   "property_type": "Data",
+   "value": "Work Order Traveller"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+>>>>>>> feat: updated customizations
    "creation": "2016-06-23 11:46:57.195710",
    "default_value": null,
    "doc_type": "Sales Order",

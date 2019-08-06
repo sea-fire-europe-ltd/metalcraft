@@ -24,6 +24,10 @@
    "idx": 60,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+<<<<<<< HEAD
+=======
+   "in_filter": 0,
+>>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -75,6 +79,10 @@
    "idx": 5,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
+<<<<<<< HEAD
+=======
+   "in_filter": 0,
+>>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -111,14 +119,22 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
+<<<<<<< HEAD
    "creation": "2019-07-22 13:51:52.315771",
+=======
+   "creation": "2019-04-23 10:53:46.407187",
+>>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Delivery Note Item",
    "docstatus": 0,
    "doctype_or_field": "DocField",
    "field_name": "barcode",
    "idx": 0,
+<<<<<<< HEAD
    "modified": "2019-07-22 13:51:52.315771",
+=======
+   "modified": "2019-04-23 10:53:46.407187",
+>>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Delivery Note Item-barcode-hidden",
    "owner": "Administrator",
