@@ -5,43 +5,17 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 0,
-=======
    "allow_on_submit": 1,
->>>>>>> feat: updated customizations
    "bold": 0,
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2018-03-26 14:46:41.640212",
-=======
    "creation": "2017-10-20 09:13:04.849379",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
    "docstatus": 0,
    "dt": "Purchase Order Item",
-<<<<<<< HEAD
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "requested_by",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 59,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "batch_no",
-   "label": "Requested by",
-   "modified": "2018-03-26 14:46:41.640212",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Purchase Order Item-requested_by",
-=======
    "fetch_from": "",
    "fetch_if_empty": 0,
    "fieldname": "current_revision_level",
@@ -59,27 +33,18 @@
    "modified": "2019-06-04 08:14:12.411164",
    "modified_by": "Administrator",
    "name": "Purchase Order Item-current_revision_level",
->>>>>>> feat: updated customizations
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-<<<<<<< HEAD
-   "permlevel": 0,
-=======
    "permlevel": 6,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 1,
-=======
    "read_only": 0,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -97,11 +62,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-10-20 09:13:04.849379",
-=======
    "creation": "2019-05-01 11:07:45.717310",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -109,29 +70,6 @@
    "dt": "Purchase Order Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "current_revision_level",
-   "fieldtype": "Data",
-   "hidden": 0,
-   "idx": 2,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "item_code",
-   "label": "Revision",
-   "modified": "2017-10-20 09:13:04.849379",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Purchase Order Item-current_revision_level",
-   "no_copy": 0,
-   "options": null,
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 6,
-=======
    "fieldname": "custom_description",
    "fieldtype": "Long Text",
    "hidden": 0,
@@ -154,7 +92,6 @@
    "parentfield": null,
    "parenttype": null,
    "permlevel": 0,
->>>>>>> feat: updated customizations
    "precision": "",
    "print_hide": 0,
    "print_hide_if_no_value": 0,
@@ -177,11 +114,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2017-03-31 12:25:57.861418",
-=======
    "creation": "2018-03-26 14:46:41.640212",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -189,25 +122,6 @@
    "dt": "Purchase Order Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "batch_no",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 58,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "page_break",
-   "label": "Batch No",
-   "modified": "2017-03-31 12:25:57.861418",
-   "modified_by": "Administrator",
-   "name": "Purchase Order Item-batch_no",
-   "no_copy": 0,
-   "options": "Batch",
-   "owner": "Administrator",
-=======
    "fieldname": "requested_by",
    "fieldtype": "Data",
    "hidden": 0,
@@ -226,7 +140,6 @@
    "no_copy": 0,
    "options": null,
    "owner": "cpurbaugh@sea-fire.com",
->>>>>>> feat: updated customizations
    "parent": null,
    "parentfield": null,
    "parenttype": null,
@@ -235,11 +148,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -257,8 +166,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-=======
    "creation": "2017-03-31 12:25:57.861418",
    "default": null,
    "depends_on": null,
@@ -311,7 +218,6 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
->>>>>>> feat: updated customizations
    "creation": "2017-03-20 15:03:44.129808",
    "default": "",
    "depends_on": null,
@@ -326,10 +232,7 @@
    "idx": 4,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-<<<<<<< HEAD
-=======
    "in_filter": 0,
->>>>>>> feat: updated customizations
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -366,8 +269,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-=======
    "creation": "2019-06-04 08:09:50.550934",
    "default_value": null,
    "doc_type": "Purchase Order Item",
@@ -414,7 +315,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
->>>>>>> feat: updated customizations
    "creation": "2019-03-06 09:26:31.529622",
    "default_value": null,
    "doc_type": "Purchase Order Item",
@@ -507,32 +407,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-02-28 15:50:19.618676",
-   "default_value": null,
-   "doc_type": "Purchase Order Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
-   "idx": 0,
-   "modified": "2019-02-28 15:50:19.618676",
-   "modified_by": "Administrator",
-   "name": "Purchase Order Item-read_only_onload",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "creation": "2018-11-30 11:38:47.263683",
    "default_value": null,
    "doc_type": "Purchase Order Item",

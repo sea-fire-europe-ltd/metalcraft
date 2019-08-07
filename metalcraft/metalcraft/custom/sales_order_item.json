@@ -10,11 +10,7 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
-<<<<<<< HEAD
-   "creation": "2019-05-02 09:21:14.639102",
-=======
    "creation": "2018-05-23 13:51:16.307133",
->>>>>>> feat: updated customizations
    "default": null,
    "depends_on": null,
    "description": null,
@@ -22,24 +18,6 @@
    "dt": "Sales Order Item",
    "fetch_from": null,
    "fetch_if_empty": 0,
-<<<<<<< HEAD
-   "fieldname": "bom_no",
-   "fieldtype": "Link",
-   "hidden": 0,
-   "idx": 2,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "item_code",
-   "label": "BOM No",
-   "modified": "2019-05-02 09:21:14.639102",
-   "modified_by": "Administrator",
-   "name": "Sales Order Item-bom_no",
-   "no_copy": 0,
-   "options": "BOM",
-=======
    "fieldname": "directives",
    "fieldtype": "Text",
    "hidden": 0,
@@ -57,66 +35,6 @@
    "name": "Sales Order Item-directives",
    "no_copy": 0,
    "options": null,
->>>>>>> feat: updated customizations
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "permlevel": 0,
-   "precision": "",
-<<<<<<< HEAD
-   "print_hide": 0,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 0,
-=======
-   "print_hide": 1,
-   "print_hide_if_no_value": 0,
-   "print_width": null,
-   "read_only": 1,
->>>>>>> feat: updated customizations
-   "report_hide": 0,
-   "reqd": 0,
-   "search_index": 0,
-   "translatable": 0,
-   "unique": 0,
-   "width": null
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-<<<<<<< HEAD
-   "allow_on_submit": 0,
-   "bold": 0,
-   "collapsible": 0,
-   "collapsible_depends_on": null,
-   "columns": 0,
-   "creation": "2018-05-23 13:51:16.307133",
-   "default": null,
-   "depends_on": null,
-   "description": null,
-   "docstatus": 0,
-   "dt": "Sales Order Item",
-   "fetch_from": null,
-   "fetch_if_empty": 0,
-   "fieldname": "directives",
-   "fieldtype": "Text",
-   "hidden": 0,
-   "idx": 77,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 0,
-   "in_standard_filter": 0,
-   "insert_after": "transaction_date",
-   "label": "directives",
-   "modified": "2018-05-23 13:51:16.307133",
-   "modified_by": "Administrator",
-   "name": "Sales Order Item-directives",
-   "no_copy": 0,
-   "options": null,
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
@@ -139,8 +57,6 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "allow_on_submit": 1,
    "bold": 0,
    "collapsible": 0,
@@ -157,15 +73,6 @@
    "fieldname": "customer_pn",
    "fieldtype": "Data",
    "hidden": 0,
-<<<<<<< HEAD
-   "idx": 3,
-   "ignore_user_permissions": 0,
-   "ignore_xss_filter": 0,
-   "in_global_search": 0,
-   "in_list_view": 1,
-   "in_standard_filter": 0,
-   "insert_after": "bom_no",
-=======
    "idx": 2,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
@@ -174,7 +81,6 @@
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": "item_code",
->>>>>>> feat: updated customizations
    "label": "Customer PN",
    "modified": "2016-08-30 09:35:05.451590",
    "modified_by": "Administrator",
@@ -190,11 +96,7 @@
    "print_hide": 0,
    "print_hide_if_no_value": 0,
    "print_width": null,
-<<<<<<< HEAD
-   "read_only": 0,
-=======
    "read_only": 1,
->>>>>>> feat: updated customizations
    "report_hide": 0,
    "reqd": 0,
    "search_index": 0,
@@ -211,22 +113,14 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-07-11 14:55:00.619341",
-=======
    "creation": "2019-05-03 10:18:15.460799",
->>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order Item",
    "docstatus": 0,
    "doctype_or_field": "DocType",
    "field_name": null,
    "idx": 0,
-<<<<<<< HEAD
-   "modified": "2019-07-11 14:55:00.619341",
-=======
    "modified": "2019-05-03 10:18:15.460799",
->>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Sales Order Item-read_only_onload",
    "owner": "Administrator",
@@ -237,76 +131,19 @@
    "property_type": "Check",
    "value": null
   },
-<<<<<<< HEAD
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2019-05-03 09:02:25.886025",
-   "default_value": null,
-   "doc_type": "Sales Order Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "description",
-   "idx": 0,
-   "modified": "2019-05-03 09:02:25.886025",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Sales Order Item-description-in_list_view",
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "in_list_view",
-   "property_type": "Check",
-   "value": "1"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-   "creation": "2019-05-02 21:45:49.825391",
-   "default_value": null,
-   "doc_type": "Sales Order Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "delivery_date",
-   "idx": 0,
-   "modified": "2019-05-02 21:45:49.825391",
-   "modified_by": "cpurbaugh@sea-fire.com",
-   "name": "Sales Order Item-delivery_date-in_list_view",
-   "owner": "cpurbaugh@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "in_list_view",
-   "property_type": "Check",
-   "value": "0"
-  },
-=======
->>>>>>> feat: updated customizations
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-05-01 12:06:36.755537",
-=======
    "creation": "2019-04-22 15:53:16.653558",
->>>>>>> feat: updated customizations
    "default_value": null,
    "doc_type": "Sales Order Item",
    "docstatus": 0,
    "doctype_or_field": "DocField",
    "field_name": "customer_item_code",
    "idx": 0,
-<<<<<<< HEAD
-   "modified": "2019-05-01 12:06:36.755537",
-=======
    "modified": "2019-04-22 15:53:16.653558",
->>>>>>> feat: updated customizations
    "modified_by": "Administrator",
    "name": "Sales Order Item-customer_item_code-hidden",
    "owner": "Administrator",
@@ -317,8 +154,6 @@
    "property_type": "Check",
    "value": "0"
   },
-<<<<<<< HEAD
-=======
   {
    "_assign": null,
    "_comments": null,
@@ -342,38 +177,11 @@
    "property_type": "Check",
    "value": "1"
   },
->>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2019-04-29 23:02:29.250237",
-   "default_value": null,
-   "doc_type": "Sales Order Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "warehouse",
-   "idx": 0,
-   "modified": "2019-04-29 23:02:29.250237",
-   "modified_by": "Administrator",
-   "name": "Sales Order Item-warehouse-default",
-   "owner": "Administrator",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "default",
-   "property_type": "Text",
-   "value": ""
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "creation": "2018-09-20 10:55:14.329522",
    "default_value": null,
    "doc_type": "Sales Order Item",
@@ -415,8 +223,6 @@
    "property_type": "Check",
    "value": "0"
   },
-<<<<<<< HEAD
-=======
   {
    "_assign": null,
    "_comments": null,
@@ -440,38 +246,11 @@
    "property_type": "Int",
    "value": "2"
   },
->>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-<<<<<<< HEAD
-   "creation": "2018-09-20 10:55:14.300432",
-   "default_value": null,
-   "doc_type": "Sales Order Item",
-   "docstatus": 0,
-   "doctype_or_field": "DocField",
-   "field_name": "item_code",
-   "idx": 0,
-   "modified": "2018-09-20 10:55:14.300432",
-   "modified_by": "sellisjr@sea-fire.com",
-   "name": "Sales Order Item-item_code-columns",
-   "owner": "sellisjr@sea-fire.com",
-   "parent": null,
-   "parentfield": null,
-   "parenttype": null,
-   "property": "columns",
-   "property_type": "Int",
-   "value": "2"
-  },
-  {
-   "_assign": null,
-   "_comments": null,
-   "_liked_by": null,
-   "_user_tags": null,
-=======
->>>>>>> feat: updated customizations
    "creation": "2017-06-16 12:08:14.903175",
    "default_value": null,
    "doc_type": "Sales Order Item",
@@ -559,8 +338,6 @@
    "property_type": "Select",
    "value": "2"
   },
-<<<<<<< HEAD
-=======
   {
    "_assign": null,
    "_comments": null,
@@ -584,7 +361,6 @@
    "property_type": "Text",
    "value": "Shipping - MC"
   },
->>>>>>> feat: updated customizations
   {
    "_assign": null,
    "_comments": null,
