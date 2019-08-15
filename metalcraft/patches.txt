@@ -1,0 +1,2 @@
+metalcraft.patches.correct_customer_currency #Tyler Matteson 8/15/19
+metalcraft.patches.correct_customer_debtor_accounts #Tyler Matteson 8/15/19
