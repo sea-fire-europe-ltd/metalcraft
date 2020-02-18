@@ -1,30 +1,30 @@
 {
  "custom_fields": [],
  "custom_perms": [],
- "doctype": "Payment Entry Reference",
+ "doctype": "Work Order Item",
  "property_setters": [
   {
    "_assign": null,
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2017-05-17 15:06:35.162466",
+   "creation": "2019-04-29 23:47:22.883323",
    "default_value": null,
-   "doc_type": "Payment Entry Reference",
+   "doc_type": "Work Order Item",
    "docstatus": 0,
-   "doctype_or_field": "DocType",
-   "field_name": null,
+   "doctype_or_field": "DocField",
+   "field_name": "source_warehouse",
    "idx": 0,
-   "modified": "2017-05-17 15:06:35.162466",
+   "modified": "2019-08-16 10:32:15.737792",
    "modified_by": "Administrator",
-   "name": "Payment Entry Reference-read_only_onload",
+   "name": "Work Order Item-source_warehouse-default",
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-   "property": "read_only_onload",
-   "property_type": "Check",
-   "value": null
+   "property": "default",
+   "property_type": "Text",
+   "value": "Stores - SFE"
   }
  ],
  "sync_on_migrate": 1
