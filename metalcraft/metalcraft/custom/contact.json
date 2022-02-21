@@ -21,16 +21,15 @@
    "fieldname": "type",
    "fieldtype": "Select",
    "hidden": 0,
-   "idx": 22,
+   "idx": 21,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
    "insert_after": "unsubscribed",
    "label": "Type",
-   "modified": "2018-08-09 11:39:11.238563",
+   "modified": "2019-08-16 10:29:56.032730",
    "modified_by": "Administrator",
    "name": "Contact-type",
    "no_copy": 0,
@@ -66,7 +65,7 @@
    "delete": 0,
    "docstatus": 0,
    "email": 1,
-   "export": 0,
+   "export": 1,
    "idx": 7,
    "if_owner": 0,
    "import": 0,
@@ -85,6 +84,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -118,6 +118,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -151,6 +152,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -184,6 +186,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -217,6 +220,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -250,6 +254,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -283,6 +288,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -316,6 +322,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -349,6 +356,7 @@
    "set_user_permissions": 1,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -382,6 +390,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -415,6 +424,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -448,6 +458,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -481,6 +492,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   }
  ],
@@ -491,17 +503,40 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2018-08-09 11:39:11.096319",
+   "creation": "2020-04-02 10:51:20.429896",
+   "default_value": null,
+   "doc_type": "Contact",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "designation",
+   "idx": 0,
+   "modified": "2020-04-02 10:51:20.429896",
+   "modified_by": "ghyam@sea-fire.co.uk",
+   "name": "Contact-designation-label",
+   "owner": "ghyam@sea-fire.co.uk",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "label",
+   "property_type": "Data",
+   "value": "Title"
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2020-04-02 10:51:20.404013",
    "default_value": null,
    "doc_type": "Contact",
    "docstatus": 0,
    "doctype_or_field": "DocType",
    "field_name": null,
    "idx": 0,
-   "modified": "2018-08-09 11:39:11.096319",
-   "modified_by": "Administrator",
+   "modified": "2020-04-02 10:51:20.404013",
+   "modified_by": "ghyam@sea-fire.co.uk",
    "name": "Contact-read_only_onload",
-   "owner": "Administrator",
+   "owner": "ghyam@sea-fire.co.uk",
    "parent": null,
    "parentfield": null,
    "parenttype": null,

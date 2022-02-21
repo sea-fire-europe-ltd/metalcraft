@@ -10,6 +10,57 @@
    "collapsible": 0,
    "collapsible_depends_on": null,
    "columns": 0,
+   "creation": "2019-08-07 17:37:46.431750",
+   "default": null,
+   "depends_on": null,
+   "description": null,
+   "docstatus": 0,
+   "dt": "Item Group",
+   "fetch_from": null,
+   "fetch_if_empty": 0,
+   "fieldname": "intrastat_code",
+   "fieldtype": "Data",
+   "hidden": 0,
+   "idx": 19,
+   "ignore_user_permissions": 0,
+   "ignore_xss_filter": 0,
+   "in_global_search": 0,
+   "in_list_view": 0,
+   "in_standard_filter": 0,
+   "insert_after": "alert",
+   "label": "Intrastat Code",
+   "modified": "2019-08-16 10:29:47.952307",
+   "modified_by": "Administrator",
+   "name": "Item Group-intrastat_code",
+   "no_copy": 0,
+   "options": null,
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "permlevel": 0,
+   "precision": null,
+   "print_hide": 0,
+   "print_hide_if_no_value": 0,
+   "print_width": null,
+   "read_only": 0,
+   "report_hide": 0,
+   "reqd": 0,
+   "search_index": 0,
+   "translatable": 1,
+   "unique": 0,
+   "width": null
+  },
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "allow_on_submit": 0,
+   "bold": 0,
+   "collapsible": 0,
+   "collapsible_depends_on": null,
+   "columns": 0,
    "creation": "2019-05-20 03:19:14.077893",
    "default": null,
    "depends_on": null,
@@ -24,7 +75,6 @@
    "idx": 19,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -46,7 +96,7 @@
    "print_width": null,
    "read_only": 0,
    "report_hide": 0,
-   "reqd": 1,
+   "reqd": 0,
    "search_index": 0,
    "translatable": 1,
    "unique": 0,
@@ -85,6 +135,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -118,6 +169,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -151,6 +203,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -184,6 +237,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -217,6 +271,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -250,6 +305,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -283,6 +339,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -316,6 +373,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 0
   },
   {
@@ -349,6 +407,7 @@
    "set_user_permissions": 0,
    "share": 0,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   }
  ],
@@ -359,17 +418,17 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2019-05-20 03:31:45.675587",
+   "creation": "2020-05-04 13:01:14.278942",
    "default_value": null,
    "doc_type": "Item Group",
    "docstatus": 0,
    "doctype_or_field": "DocType",
    "field_name": null,
    "idx": 0,
-   "modified": "2019-05-20 03:31:45.675587",
-   "modified_by": "Administrator",
+   "modified": "2020-05-04 13:01:14.278942",
+   "modified_by": "ghyam@sea-fire.co.uk",
    "name": "Item Group-read_only_onload",
-   "owner": "Administrator",
+   "owner": "ghyam@sea-fire.co.uk",
    "parent": null,
    "parentfield": null,
    "parenttype": null,

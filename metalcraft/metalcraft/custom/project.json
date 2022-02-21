@@ -24,7 +24,6 @@
    "idx": 0,
    "ignore_user_permissions": 0,
    "ignore_xss_filter": 0,
-   "in_filter": 0,
    "in_global_search": 0,
    "in_list_view": 0,
    "in_standard_filter": 0,
@@ -85,6 +84,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -118,6 +118,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -151,6 +152,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -184,6 +186,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -217,6 +220,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -250,6 +254,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -283,6 +288,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -316,6 +322,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -349,6 +356,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   },
   {
@@ -382,6 +390,7 @@
    "set_user_permissions": 0,
    "share": 1,
    "submit": 0,
+   "user_permission_doctypes": null,
    "write": 1
   }
  ],
@@ -392,23 +401,23 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2018-06-28 15:24:42.512881",
+   "creation": "2016-08-23 07:46:38.820396",
    "default_value": null,
    "doc_type": "Project",
    "docstatus": 0,
    "doctype_or_field": "DocType",
    "field_name": null,
    "idx": 0,
-   "modified": "2018-06-28 15:24:42.512881",
-   "modified_by": "sellisjr@sea-fire.com",
-   "name": "Project-read_only_onload",
-   "owner": "sellisjr@sea-fire.com",
+   "modified": "2019-08-16 10:32:19.336518",
+   "modified_by": "Administrator",
+   "name": "Project-quick_entry",
+   "owner": "Administrator",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-   "property": "read_only_onload",
+   "property": "quick_entry",
    "property_type": "Check",
-   "value": null
+   "value": "0"
   },
   {
    "_assign": null,
@@ -422,7 +431,7 @@
    "doctype_or_field": "DocField",
    "field_name": "estimated_costing",
    "idx": 0,
-   "modified": "2016-11-11 16:12:15.425089",
+   "modified": "2019-08-16 10:32:18.630486",
    "modified_by": "Administrator",
    "name": "Project-estimated_costing-in_list_view",
    "owner": "Administrator",
@@ -438,23 +447,23 @@
    "_comments": null,
    "_liked_by": null,
    "_user_tags": null,
-   "creation": "2016-08-23 07:46:38.820396",
+   "creation": "2018-06-28 15:24:42.512881",
    "default_value": null,
    "doc_type": "Project",
    "docstatus": 0,
    "doctype_or_field": "DocType",
    "field_name": null,
    "idx": 0,
-   "modified": "2016-08-23 07:46:38.820396",
+   "modified": "2019-08-16 10:32:16.818893",
    "modified_by": "Administrator",
-   "name": "Project-quick_entry",
-   "owner": "Administrator",
+   "name": "Project-read_only_onload",
+   "owner": "sellisjr@sea-fire.com",
    "parent": null,
    "parentfield": null,
    "parenttype": null,
-   "property": "quick_entry",
+   "property": "read_only_onload",
    "property_type": "Check",
-   "value": "0"
+   "value": null
   }
  ],
  "sync_on_migrate": 1
