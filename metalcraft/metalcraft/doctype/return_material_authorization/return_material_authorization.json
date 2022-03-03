@@ -821,7 +821,7 @@
    "label": "Serial Number", 
    "length": 0, 
    "no_copy": 0, 
-   "options": "Serial Number", 
+   "options": "", 
    "permlevel": 0, 
    "precision": "", 
    "print_hide": 0, 
