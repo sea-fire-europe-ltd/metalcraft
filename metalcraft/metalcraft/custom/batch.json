@@ -33,7 +33,7 @@
    "modified_by": "Administrator",
    "name": "Batch-naming_series",
    "no_copy": 0,
-   "options": "",
+   "options": null,
    "owner": "Administrator",
    "parent": null,
    "parentfield": null,
